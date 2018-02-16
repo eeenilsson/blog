@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "Minimo"
+title = "MMMinimo"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -31,8 +31,8 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "MunifTanjim"
-startYear = "2017"
+holder = "Erik Nilsson"
+startYear = "2018"
 suffix = ""
 
 [params.settings]
@@ -92,7 +92,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+url = "https://github.com/eeenilsson/blog.git"
 
 [blackfriday]
 hrefTargetBlank = true
