@@ -11,6 +11,19 @@
     
     
     <item>
+      <title>Typo2</title>
+      <link>/typographytypo2/</link>
+      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
+      
+      <guid>/typographytypo2/</guid>
+      <description>Heading 6        NONE
+Now, time for some links!
+ GoHugo  Hugo Themes   Heading 6 Inline code: echo &amp;quot;What is the meaning of life?&amp;quot;. Who knows?
+// Codeblock  var meaningOfLife = 42; console.log(&amp;#39;The meaning of life is: &amp;#39;, meaningOfLife); Who wants some table?
+   Minimo Caption More Caption     Cool What?</description>
+    </item>
+    
+    <item>
       <title>Typography</title>
       <link>/typography/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
