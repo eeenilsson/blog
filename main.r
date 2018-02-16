@@ -9,9 +9,8 @@
 
 ## Quick example
 ## make dir blog/source/
-setwd("c:/e/blog/source")
-##blogdown::new_site() # note: Folder must be empty (except .git)
-## blogdown::new_site(theme = "alanorth/hugo-theme-bootstrap4-blog") ## bootstrap theme
+setwd("source")
+
 ## blogdown::new_site(theme = "MunifTanjim/minimo") ## Minimo
 ## change the working directory to public/, and initialize the GIT repository there:
 ## git remote add origin https://github.com/username/username.github.io
