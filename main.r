@@ -10,7 +10,7 @@
 ## Quick example
 ## make dir blog/source/
 setwd("source")
-
+getwd()
 blogdown::new_site(theme = "MunifTanjim/minimo") ## Minimo
 ## change the working directory to public/, and initialize the GIT repository there:
 ## git remote add origin https://github.com/username/username.github.io
