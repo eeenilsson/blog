@@ -27,6 +27,16 @@
   </url>
   
   <url>
+    <loc>/post/2018-02-16-astrobiology/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018-02-16-whatislife/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/docs/sidebar/</loc>
     <lastmod>2018-02-09T16:15:00+06:00</lastmod>
   </url>
@@ -92,6 +102,12 @@
   </url>
   
   <url>
+    <loc>/categories/astronomi/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
     <priority>0</priority>
@@ -102,7 +118,14 @@
   </url>
   
   <url>
+    <loc>/categories/biologi/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -124,8 +147,20 @@
   </url>
   
   <url>
+    <loc>/categories/geologi/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/i18n/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/litteratur/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -138,6 +173,12 @@
   <url>
     <loc>/authors/muniftanjim/</loc>
     <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ontologi/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -165,8 +206,14 @@
   </url>
   
   <url>
+    <loc>/tags/podcast/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -215,6 +262,18 @@
   <url>
     <loc>/categories/tutorial/</loc>
     <lastmod>2018-02-08T14:45:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vetenskap/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/vetenskapsteori/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
