@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on MMMinimo</title>
+    <title>Categories on Loggen</title>
     <link>/categories/</link>
-    <description>Recent content in Categories on MMMinimo</description>
+    <description>Recent content in Categories on Loggen</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
     
@@ -47,6 +47,15 @@
     </item>
     
     <item>
+      <title>Neurovetenskap</title>
+      <link>/categories/neurovetenskap/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/neurovetenskap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Others</title>
       <link>/categories/others/</link>
       <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
@@ -70,6 +79,15 @@
       <pubDate>Mon, 25 Sep 2017 06:00:00 +0600</pubDate>
       
       <guid>/categories/tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vetenskap</title>
+      <link>/categories/vetenskap/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/vetenskap/</guid>
       <description></description>
     </item>
     

@@ -3,15 +3,11 @@ title: "Astrobiologi"
 author: "Erik Nilsson"
 date: 2018-02-16T21:13:14-05:00
 categories: ["Astronomi", "Biologi", "Geologi"]
-tags: ["Ontologi", "Vetenskap", "Litteratur", "Podcast"]
+tags: ["Ontologi", "Vetenskap", "Podcast"]
 ---
 
-# Föreläsningar: Astronomy 141
+# Föreläsningar om astrobiologi
 
-Bra grunläggande föreläsningar. "The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences."
+"Astronomy 141" är bra grunläggande föreläsningar. "The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences."
 
 Länk: <http://www.astronomy.ohio-state.edu/~pogge/Ast141/>
-
-# Forskarkurs: What is Life?
-
-<http://kiwas.ki.se/katalog/katalog/kurs/2727;jsessionid=02b7dd071310a0558fbc3a80c4c7>

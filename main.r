@@ -13,7 +13,7 @@ setwd("/home/eee/e/blog")
 setwd("blog")
 ##setwd("source")
 
-blogdown::new_site(theme = "MunifTanjim/minimo") ## Minimo
+##blogdown::new_site(theme = "MunifTanjim/minimo") ## Minimo
 ## change the working directory to public/, and initialize the GIT repository there:
 ## git remote add origin https://github.com/username/username.github.io
 ## Note: Cannot push to github from work due to firewall

@@ -1,27 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on MMMinimo</title>
+    <title>Pages on Loggen</title>
     <link>/page/</link>
-    <description>Recent content in Pages on MMMinimo</description>
+    <description>Recent content in Pages on Loggen</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate>
     
 	<atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Typo2</title>
-      <link>/typographytypo2/</link>
-      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
-      
-      <guid>/typographytypo2/</guid>
-      <description>Heading 6        NONE
-Now, time for some links!
- GoHugo  Hugo Themes   Heading 6 Inline code: echo &amp;quot;What is the meaning of life?&amp;quot;. Who knows?
-// Codeblock  var meaningOfLife = 42; console.log(&amp;#39;The meaning of life is: &amp;#39;, meaningOfLife); Who wants some table?
-   Minimo Caption More Caption     Cool What?</description>
-    </item>
     
     <item>
       <title>Typography</title>
@@ -40,9 +27,7 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Mínimo is a Spanish word that roughly translate to Minimal.
-Minimo is a minimalist theme for Hugo.
-Minimo keeps the focus on your content and lets it shine!</description>
+      <description>No content</description>
     </item>
     
   </channel>

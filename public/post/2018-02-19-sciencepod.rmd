@@ -1,0 +1,15 @@
+---
+title: "Poddar om vetenskap"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Vetenskap"]
+tags: ["Podcast", "Vetenskap", "Nöje"]
+---
+
+# Science podcast
+
+En podd från American Association for the Advancement of Science (AAAS) som sammanfattar intressanta vetenskapsnyheter från olika fält, iblad med intervjuer av forskare som ligger bakom nya rön.
+
+Länk: <http://www.sciencemag.org/podcasts>
+
+Intressanta avsnitt: Machine consciousness, asteroid origins, and the oldest forests.
