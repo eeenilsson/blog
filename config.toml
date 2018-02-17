@@ -23,6 +23,8 @@ defaultContentLanguage = "en"
 description = "En slags loggbok"
 title404 = "Nothing's here!"
 
+# eller ett tankegalleri
+
 [params.assets]
 favicon = "favicon.ico"
 customCSS = ["css/custom.css"]
