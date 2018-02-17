@@ -3,8 +3,8 @@ title: "Vansinnet i historia och litteratur"
 author: "Erik Nilsson"
 date: 2018-02-16T21:13:14-05:00
 categories: ["Historia", "Psykiatri"]
-description: They heard! – They suspected! – they knew [Edgar Allan Poe, Tell-Tale Heart]
-tags: ["Podcast", "Historia", "Nöje", "Psykiatri"]
+description: They heard! – They suspected! – they knew. [Edgar Allan Poe, Tell-Tale Heart]
+tags: ["Podcast", "Historia", "Nöje", "Psykiatri", "Litteratur"]
 ---
 
 # Övrigt

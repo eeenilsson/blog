@@ -5,8 +5,6 @@ title: Opengraph Support
 authors: ["muniftanjim"]
 categories:
   - features
-tags:
-  - og
 slug: opengraph
 ---
 Minimo has built-in support for Opengraph tags. It will pick up most of the things from your contents' front-matters & Hugo configuration.

@@ -5,8 +5,6 @@ title: Menus Setup Guide
 authors: ["muniftanjim"]
 categories:
   - features
-tags:
-  - menus
 slug: menus
 toc: true
 ---

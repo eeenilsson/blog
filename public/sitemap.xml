@@ -4,17 +4,12 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/docs/</loc>
     <lastmod>2018-02-09T16:15:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/typography/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -68,6 +63,11 @@
   </url>
   
   <url>
+    <loc>/post/science_ontology/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/ols_ehalsa/</loc>
     <lastmod>2018-02-07T21:13:14-05:00</lastmod>
   </url>
@@ -80,6 +80,16 @@
   <url>
     <loc>/docs/widgets/</loc>
     <lastmod>2018-02-12T23:40:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/docs/widgets/</loc>
+    <lastmod>2018-02-12T23:40:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2018feb-dunedinstudy/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,18 +148,18 @@
   </url>
   
   <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/docs/widgets/</loc>
+    <lastmod>2018-02-12T23:40:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/astronomi/</loc>
+    <loc>/tags/astronomi/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/astronomi/</loc>
+    <loc>/categories/astronomi/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -177,14 +187,7 @@
   </url>
   
   <url>
-    <loc>/tags/chroma/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/config/</loc>
-    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
   </url>
   
   <url>
@@ -212,20 +215,14 @@
   </url>
   
   <url>
-    <loc>/categories/historia/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/historia/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/i18n/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
+    <loc>/categories/historia/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -242,14 +239,14 @@
   </url>
   
   <url>
-    <loc>/tags/menus/</loc>
-    <lastmod>2017-10-05T16:00:00+06:00</lastmod>
+    <loc>/tags/media/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/authors/muniftanjim/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <lastmod>2018-02-09T16:15:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -273,7 +270,6 @@
   
   <url>
     <loc>/tags/og/</loc>
-    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -284,13 +280,7 @@
   
   <url>
     <loc>/page/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -307,26 +297,14 @@
   </url>
   
   <url>
-    <loc>/categories/psykiatri/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/psykiatri/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/pygments/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    <loc>/categories/psykiatri/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -337,20 +315,8 @@
   </url>
   
   <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/shortcode/</loc>
-    <lastmod>2017-10-05T20:00:00+06:00</lastmod>
+    <loc>/categories/r/</loc>
+    <lastmod>2018-02-12T23:40:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -367,25 +333,19 @@
   </url>
   
   <url>
-    <loc>/tags/translation/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/tutorial/</loc>
     <lastmod>2018-02-08T14:45:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/vetenskap/</loc>
+    <loc>/tags/vetenskap/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/vetenskap/</loc>
+    <loc>/categories/vetenskap/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -397,20 +357,14 @@
   </url>
   
   <url>
-    <loc>/tags/widgets/</loc>
-    <lastmod>2018-02-12T23:40:00+06:00</lastmod>
+    <loc>/tags/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
     <lastmod>2018-02-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

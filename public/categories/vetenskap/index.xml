@@ -18,8 +18,10 @@
       <guid>/post/2018-02-19-sciencepod/</guid>
       <description>Science podcast En podd från American Association for the Advancement of Science (AAAS) som sammanfattar intressanta vetenskapsnyheter från olika fält, iblad med intervjuer av forskare som ligger bakom nya rön.
 Länk: http://www.sciencemag.org/podcasts
-Intressanta avsnitt: Machine consciousness, asteroid origins, and the oldest forests.
- </description>
+Intressanta avsnitt:
+ Building conscious machines
+ Following 1000 people for decades to learn about the interplay of health, environment, and temperament
+   </description>
     </item>
     
     <item>
@@ -31,6 +33,18 @@ Intressanta avsnitt: Machine consciousness, asteroid origins, and the oldest for
       <description>De två programmen nedan täcker 90% av forskningsarbetet.
 R R är et program för statistikberäkningar, men kan användas för en hel del andra saker, tex datahantering, att producera figurer, flödesscheman med mera.
 Skillnaden mot andra vanliga statistikprogram (tex SPSS) är att man skriver kommandon som vid programmering snarare än att välja från menyer. En nackdel är att det tar tid att lära sig, men när man väl gjort det finns många fördelar.</description>
+    </item>
+    
+    <item>
+      <title>The Dunedin Study</title>
+      <link>/post/2018feb-dunedinstudy/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018feb-dunedinstudy/</guid>
+      <description>I “The Dunedin Multidisciplinary Health &amp;amp; Development Study” har man följt 1037 personer födda 1972-73 i över 40 år. Livshistoriens betydelse för åldrande, kognition med mera har studerats. Verkar intressant för att värdera effekter av arv och miljö.
+The Dunedin Study
+Om studien i ett podcastavsnitt från Science:
+ Following 1000 people for decades to learn about the interplay of health, environment, and temperament  </description>
     </item>
     
   </channel>

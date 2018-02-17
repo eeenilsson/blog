@@ -29,18 +29,9 @@
     </item>
     
     <item>
-      <title>Chroma</title>
-      <link>/tags/chroma/</link>
-      <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
-      
-      <guid>/tags/chroma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Configuration</title>
       <link>/tags/config/</link>
-      <pubDate>Wed, 07 Feb 2018 19:15:00 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/config/</guid>
       <description></description>
@@ -74,15 +65,6 @@
     </item>
     
     <item>
-      <title>I18n</title>
-      <link>/tags/i18n/</link>
-      <pubDate>Wed, 27 Sep 2017 14:00:00 +0600</pubDate>
-      
-      <guid>/tags/i18n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kognition</title>
       <link>/tags/kognition/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
@@ -101,11 +83,11 @@
     </item>
     
     <item>
-      <title>Menus</title>
-      <link>/tags/menus/</link>
-      <pubDate>Wed, 27 Sep 2017 10:00:00 +0600</pubDate>
+      <title>Media</title>
+      <link>/tags/media/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/menus/</guid>
+      <guid>/tags/media/</guid>
       <description></description>
     </item>
     
@@ -130,18 +112,9 @@
     <item>
       <title>Opengraph</title>
       <link>/tags/og/</link>
-      <pubDate>Tue, 26 Sep 2017 08:00:00 +0600</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/og/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
@@ -164,47 +137,11 @@
     </item>
     
     <item>
-      <title>Pygments</title>
-      <link>/tags/pygments/</link>
-      <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
-      
-      <guid>/tags/pygments/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R</title>
       <link>/tags/r/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Shortcode</title>
-      <link>/tags/shortcode/</link>
-      <pubDate>Thu, 05 Oct 2017 20:00:00 +0600</pubDate>
-      
-      <guid>/tags/shortcode/</guid>
       <description></description>
     </item>
     
@@ -218,29 +155,11 @@
     </item>
     
     <item>
-      <title>Translation</title>
-      <link>/tags/translation/</link>
-      <pubDate>Wed, 27 Sep 2017 14:00:00 +0600</pubDate>
-      
-      <guid>/tags/translation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Vetenskap</title>
       <link>/tags/vetenskap/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/tags/vetenskap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Widgets</title>
-      <link>/tags/widgets/</link>
-      <pubDate>Wed, 07 Feb 2018 18:30:00 +0600</pubDate>
-      
-      <guid>/tags/widgets/</guid>
       <description></description>
     </item>
     

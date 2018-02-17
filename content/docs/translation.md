@@ -4,9 +4,6 @@ title: Translation Support
 authors: ["muniftanjim"]
 categories:
   - features
-tags:
-  - translation
-  - i18n
 slug: translation
 ---
 You can translate Minimo in your own language!

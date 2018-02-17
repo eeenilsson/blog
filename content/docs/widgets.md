@@ -5,9 +5,6 @@ title: Widgets
 authors: ["muniftanjim"]
 categories:
   - features
-tags:
-  - config
-  - widgets
 slug: widgets
 toc: true
 ---

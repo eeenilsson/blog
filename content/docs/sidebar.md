@@ -5,8 +5,6 @@ title: Sidebar
 authors: ["muniftanjim"]
 categories:
   - features
-tags:
-  - config
 slug: sidebar
 ---
 

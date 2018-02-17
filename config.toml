@@ -59,26 +59,27 @@ appID = ""
 pageID = ""
 
 [params.opengraph.twitter]
-page = "" # Twitter page username
+page = "eriks_tweets" # Twitter page username
 
 [params.seo]
 # Title Separator: - – — · • * ⋆ | ~ « » < >
 titleSeparator = "•"
 
 [params.social]
-codepen = "MunifTanjim"
-email = "contact@example.com"
-facebook = "MunifTanjim"
-github = "MunifTanjim"
-gitlab = "MunifTanjim"
-instagram = "MunifTanjim"
-linkedin = "muniftanjim"
-twitter = "MunifTanjim"
-telegram = "MunifTanjim"
-google_scholar = "qc6CJjYAAAAJ"
+codepen = ""
+email = "eeenilsson@gmail.com"
+facebook = ""
+github = "eeenilsson"
+gitlab = ""
+instagram = ""
+linkedin = ""
+twitter = "eriks_tweets"
+telegram = ""
+google_scholar = ""
 
 [params.social.config]
-platforms = ["github","facebook","twitter","instagram","email","codepen","gitlab","linkedin","telegram","google_scholar"]
+platforms = ["github","facebook","twitter","email"]
+# ,"codepen","gitlab","linkedin","telegram","google_scholar"
 
 [taxonomies]
 author = "authors"

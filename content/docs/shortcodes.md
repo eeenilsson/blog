@@ -4,8 +4,6 @@ title: Shortcodes
 authors: ["muniftanjim"]
 categories:
   - features
-tags:
-  - shortcode
 slug: shortcodes
 toc: true
 ---

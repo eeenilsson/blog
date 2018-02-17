@@ -4,9 +4,6 @@ title: Syntax Highlighting
 authors: ["muniftanjim"]
 categories:
   - features
-tags:
-  - pygments
-  - chroma
 slug: syntax-highlighting
 ---
 Hugo uses Chroma as it's built-in syntax-highlighter.

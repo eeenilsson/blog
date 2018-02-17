@@ -5,8 +5,6 @@ title: "Configuration File: config.toml"
 authors: ["muniftanjim"]
 categories:
   - others
-tags:
-  - config
 slug: config-file
 ---
 
