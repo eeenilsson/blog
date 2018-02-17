@@ -19,6 +19,12 @@
   
   <url>
     <loc>/%C3%B6rebrol%C3%A4kare/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ols_choklad/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,6 +34,11 @@
   
   <url>
     <loc>/post/2018-02-19-nasa/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/history/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
   </url>
   
@@ -42,6 +53,11 @@
   </url>
   
   <url>
+    <loc>/post/madness/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/2018-02-19-sciencetools/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
   </url>
@@ -52,6 +68,11 @@
   </url>
   
   <url>
+    <loc>/post/ols_ehalsa/</loc>
+    <lastmod>2018-02-07T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/docs/sidebar/</loc>
     <lastmod>2018-02-09T16:15:00+06:00</lastmod>
   </url>
@@ -59,6 +80,11 @@
   <url>
     <loc>/docs/widgets/</loc>
     <lastmod>2018-02-12T23:40:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ols_planerat2018/</loc>
+    <lastmod>2018-01-16T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -168,6 +194,12 @@
   </url>
   
   <url>
+    <loc>/tags/evenemang/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/features/</loc>
     <lastmod>2018-02-09T16:15:00+06:00</lastmod>
     <priority>0</priority>
@@ -175,6 +207,18 @@
   
   <url>
     <loc>/categories/geologi/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/historia/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/historia/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -217,7 +261,7 @@
   
   <url>
     <loc>/tags/n%C3%B6je/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -258,6 +302,12 @@
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/psykiatri/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -349,6 +399,18 @@
   <url>
     <loc>/tags/widgets/</loc>
     <lastmod>2018-02-12T23:40:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
+    <lastmod>2018-02-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/%C3%B6rebro-l%C3%A4kares%C3%A4llskap/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

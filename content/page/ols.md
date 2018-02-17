@@ -3,15 +3,17 @@ title: ÖrebroLäkare
 description: Örebro Läkaresällskap
 menu: main
 weight: -210
+tags: ["Örebro Läkaresällskap"]
+date: 2018-01-01
 ---
 
-Örebro läkaresällskap grundades år 1904. Sällskapet syftar till att främja vetenskap, utbildning och kollegiala aktiviteter. Under flera år arrangerade Örebro läkaresällskap de så kallade Läkardagarna.
+Örebro Läkaresällskap grundades år 1904. Sällskapet syftar till att främja vetenskap, utbildning och kollegiala aktiviteter. Under flera år arrangerade Örebro Läkaresällskap de så kallade Läkardagarna.
 
-Örebro Läkaresällskap är en lokal avdelning tillhörande Svenska Läkaresällskapet (<http://www.sls.se/>).
+Örebro Läkaresällskap är en lokal avdelning tillhörande Svenska Läkaresällskapet (<http://www.sls.se/>). Medlemskap i den lokala avdelningen innebär _inte_ automatiskt medlemskap i Svenska Läkaresällskapet.
 
-För kommande och tidigare evenemang, se taggen "Evenemang" i menyn.
+# Evenemang
 
-![Asklepios](asclepios.png)
+För kommande och tidigare evenemang, se taggen "Evenemang" i bloggens meny.
 
 # Styrelse
 
@@ -27,6 +29,6 @@ Mattias Egberth, Kirurgkliniken, Lindesberg
 
 Erik Nilsson, Medicinkliniken, Örebro
 
-
+![Asklepios](/asclepios.png)
 
 
