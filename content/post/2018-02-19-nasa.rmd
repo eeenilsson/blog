@@ -15,6 +15,6 @@ Länk: <https://saturn.jpl.nasa.gov/>
 
 # Juno
 
-Rymdsonden vid Jupiter som tagit fantastiska bilder.
+Rymdsonden vid Jupiter som också tagit fantastiska bilder.
 
 Länk: <https://www.nasa.gov/mission_pages/juno/main/index.html>
