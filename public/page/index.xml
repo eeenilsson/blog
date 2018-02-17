@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Typography</title>
+      <title>Typo</title>
       <link>/typography/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
@@ -22,12 +22,18 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
+      <title>ÖrebroLäkare</title>
+      <link>/%C3%B6rebrol%C3%A4kare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>No content</description>
+      <guid>/%C3%B6rebrol%C3%A4kare/</guid>
+      <description>Örebro läkaresällskap grundades år 1904. Sällskapet syftar till att främja vetenskap, utbildning och kollegiala aktiviteter. Under flera år arrangerade Örebro läkaresällskap de så kallade Läkardagarna.
+Örebro Läkaresällskap är en lokal avdelning tillhörande Svenska Läkaresällskapet (http://www.sls.se/).
+För kommande och tidigare evenemang, se taggen &amp;ldquo;Evenemang&amp;rdquo; i menyn.
+Styrelse Till ny styrelse valdes den 31 augusti 2017:
+Jonas Ludvigsson, Barnkliniken, Örebro (Ordförande)
+Lovisa Paulsson, Barnkliniken, Örebro (Kassör)
+Åsa Athlin, Olaus Petri vårdcentral, Örebro</description>
     </item>
     
   </channel>

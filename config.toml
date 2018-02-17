@@ -88,11 +88,11 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/eeenilsson/blog.git"
+# [[menu.main]]
+# name = "Repo"
+# weight = -10
+# identifier = "repository"
+# url = "https://github.com/eeenilsson/blog.git"
 
 [blackfriday]
 hrefTargetBlank = true
