@@ -6,23 +6,60 @@ categories: ["Astronomi", "Biologi", "Geologi", "Vetenskapsteori"]
 tags: ["Ontologi", "Vetenskap", "Podcast", "Media"]
 ---
 
-# En film om tiopotenser
+# Statististisk termodynamik och betydelsen av N
+
+_Eller, Schrödinger utan katten._
+
+En utgångspunkt för biologisk skala är den [statistiska mekaniken](/media/stat_TD.pdf). För att biologiska system skall fungera måste dess funktioner bestå av interaktioner mellan en tillräcklig mängd små partiklar (atomer, molekyler) för att deras interaktioner skall uppnå en tillräckligt hög precision eller tillförlitlighet. Ifall dessa interaktioner skulle ske mellan en mindre mängd partiklar skulle exempelvis termiska rörelser medföra stora fluktuationer i utfallet.
+
+# Perspektiv på storlek
+
+[I denna interaktiva animation](http://htwins.net/scale2/) kan du klicka dig fram för att jämföra skalan mellan olika objekt.
+
+![UV](/media/uv_scale.png)
+_Screenshot från animationen "Scale of the Universe" av Cary Huang._
+
+Genom evolutionen [varierar en arts storlek](http://www.nhm.ac.uk/our-science/our-work/origins-evolution-and-futures/size-matters.html) beroende på temperatur och andra omgivningsfaktorer.
+
+# Se även
+
+...boken _[Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies](https://www.amazon.com/Scale-Universal-Innovation-Sustainability-Organisms/dp/1594205582)_ av Geoffrey West. Boken är omtalad och jag läste första kapitlet men blev inte fast. Kanske värt ett till försök?
+
+...inlägget om _[ventenskaplig notation](/post/scientific_notation)_.
+
+...filmen "Powers of Ten":
 
 <iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
 
-# En interaktiv animation
+# Sambandet mellan hjärtfrekvens och livslängd
 
-[Länk till en interaktiv animation av universums skala av Cary Huang](http://htwins.net/scale2/)
+I boken "Scale" tas korrelationen mellan hjärtfrekvens och livslängd upp, vilket kan illustreras med följande figur:
 
+```{r heartbeats, message = F, warning = F, echo = FALSE }
 
-# Statististisk termodynamik och betydelsen av N
+## Data
+heartbeats <- read.csv('../media/lifetime_heartbeats.csv')
 
-Schrödinger utan katten.
+## Curate
+heartbeats <- heartbeats[2:16,] # delete first and last line
+heartbeats$Heart.Rate <- as.numeric(as.character(heartbeats$Heart.Rate))
+heartbeats$Longevity <- as.numeric(as.character(heartbeats$Longevity))
+heartbeats <- subset(heartbeats, select==1)
 
-# <font color="blue">Mantissan</font>: Skala respektive precision.
+## names(heartbeats)
+require(ggplot2)
+ggplot(heartbeats, aes(x=Heart.Rate, y=Longevity)) +
+    geom_point(size=3, shape=1, color="red")+
+    geom_text(aes(label=heartbeats$Animal),hjust=-0.25, vjust=heartbeats$verticaloffset)+
+    scale_x_continuous(limits = c(0, 500))+
+    ylab("Longevity (years)")+
+    xlab("Heart rate (beats per minute)")
 
-Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som <font color="blue">1.25</font>x10^3 där delen <font color="blue">1.25</font> (mantissan eller signifikanten) motsvarar då talets precision, emedan 10³ (exponenten, eller eng "power term") beskriver talets skala.
+## ggtitle("Heart Rate and longevity in mammals", subtitle = NULL)
 
-Om vi till exempel är intresserade av att beskriva avståndet mellan solen och jorden (149 600 000 kilometer) är det oftast inte meningsfullt (eller ens möjligt eftersom det varierar) att ange talet med stor precision. Vi kan då exempelvis välja att ange sträckan med precisionen 150 och skalan x10⁶, dvs <font color="blue">150</font>x10⁶ kilometer.
+``` 
+**Figure**: Heart Rate and longevity in mammals.
+
+Data för figuren kommer från [Thayer Watkins vid San José State University](http://www.sjsu.edu/faculty/watkins/longevity.htm), som också skriver: _A useful line of analysis is to consider the effect of scale changes for creatures which are similar in shape and only differ in scale. As the scale of an animal increases the body weight and volume increase with the cube of scale. The volume of blood flow required to feed that bulk also increases with the cube of scale. The cross sectional area of the arteries and the veins required to carry that blood flow only increases with the square of scale. There are other area-volume relationships which impose limitations on creatures._

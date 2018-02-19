@@ -21,6 +21,17 @@
     </item>
     
     <item>
+      <title>Vetenskaplig notation</title>
+      <link>/post/scientific_notation/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scientific_notation/</guid>
+      <description>Att skriva stora och små tal För att på ett koncist sätt skriva tal som är väldigt stora eller väldigt små används vetenskaplig notation. Tal skrivs då med tipopotenser, exempelvis två miljoner = 2x10^6.
+ Perspektiv: Powers of Ten  POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+ Mantissan: Skala respektive precision. Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som 1.25x10^3 där delen 1.</description>
+    </item>
+    
+    <item>
       <title>Astrobiologi</title>
       <link>/post/2018-02-16-astrobiology/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
@@ -104,10 +115,8 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/science_ontology_scale/</guid>
-      <description>En film om tiopotenser  POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
- En interaktiv animation Länk till en interaktiv animation av universums skala av Cary Huang
- Statististisk termodynamik och betydelsen av N Schrödinger utan katten.
- Mantissan: Skala respektive precision. Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som 1.25x10^3 där delen 1.25 (mantissan eller signifikanten) motsvarar då talets precision, emedan 10³ (exponenten, eller eng “power term”) beskriver talets skala.</description>
+      <description>Statististisk termodynamik och betydelsen av N Eller, Schrödinger utan katten.
+En utgångspunkt för biologisk skala är den statistiska mekaniken. För att biologiska system skall fungera måste dess funktioner bestå av interaktioner mellan en tillräcklig mängd små partiklar (atomer, molekyler) för att deras interaktioner skall uppnå en tillräckligt hög precision eller tillförlitlighet. Ifall dessa interaktioner skulle ske mellan en mindre mängd partiklar skulle exempelvis termiska rörelser medföra stora fluktuationer i utfallet.</description>
     </item>
     
     <item>
@@ -116,9 +125,9 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/science_ontology_time/</guid>
-      <description>Tid: Geologisk tid, relativitet, samtidighet, orsak och verkan
-Tid Geologisk tid
-  </description>
+      <description>Geologisk tid, relativitet, samtidighet, orsak och verkan
+Tidsperspektiv Tiden som förflutit sedan Big Bang är ungefär 13.8 miljarder (13.8x10^9) år och jorden är ca 4.54 miljarder år gammal. Eukaryoter har funnits i ca 2 miljarder år och människoarter (homininer) i 0.002 miljarder (2x10^6) år.
+Från Wikipedia: This clock representation shows some of the major units of geological time and definitive events of Earth history. The Hadean eon represents the time before fossil record of life on Earth; its upper boundary is now regarded as 4.</description>
     </item>
     
     <item>

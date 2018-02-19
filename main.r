@@ -1,26 +1,37 @@
 ## blogdown
 
-## Get started
+## Packages
 ## options(repos=structure(c(CRAN="http://ftp.acc.umu.se/mirror/CRAN/"))) ## set dafault repo
 ## install.packages("blogdown")
 ## blogdown::install_hugo()
 ## blogdown::update_hugo()
 ## install.packages('later')
 
-## Quick example
-## make dir blog/source/
-setwd("/home/eee/e/blog")
-setwd("blog")
-##setwd("source")
+## Step 1: Make an empty repo on github
 
-##blogdown::new_site(theme = "MunifTanjim/minimo") ## Minimo
-## change the working directory to public/, and initialize the GIT repository there:
-## git remote add origin https://github.com/username/username.github.io
-## Note: Cannot push to github from work due to firewall
+## Step 2: Clone empty repo to pc
+setwd("/home/eee/e/blog") # Start R in the new empty folder
+setwd("/home/eee/e/ols")
 
-##setwd("public")
+## Step 3: Create site
+## blogdown::new_site(theme = "MunifTanjim/minimo") ## Minimo
+
+## Step 4: Edit site content
+## Note: Change things in static, content but not in public folder (the latter will be created/updated automatically) 
+## Note: Cannot push to github from work due to firewall?
+
+## Step 4: Serve Site
 getwd()
 blogdown::serve_site()
+
+
+
+## Notes ----------------------------------
+
+## Note: Add .gitignore
+## Add .gitignore with below content to include all files
+## !*
+## *.*~
 
 ## Note gitignore .md and .html, png etc
 ## Note: Use git add --force *
