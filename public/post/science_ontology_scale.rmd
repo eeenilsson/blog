@@ -47,19 +47,22 @@ heartbeats <- heartbeats[2:16,] # delete first and last line
 heartbeats$Heart.Rate <- as.numeric(as.character(heartbeats$Heart.Rate))
 heartbeats$Longevity <- as.numeric(as.character(heartbeats$Longevity))
 heartbeats <- subset(heartbeats, select==1)
+heartbeats$LogHeartRate <- log2(heartbeats$Heart.Rate)
 
 ## names(heartbeats)
 require(ggplot2)
-ggplot(heartbeats, aes(x=Heart.Rate, y=Longevity)) +
+ggplot(heartbeats, aes(x=LogHeartRate, y=Longevity)) +
     geom_point(size=3, shape=1, color="red")+
-    geom_text(aes(label=heartbeats$Animal),hjust=-0.25, vjust=heartbeats$verticaloffset)+
-    scale_x_continuous(limits = c(0, 500))+
-    ylab("Longevity (years)")+
-    xlab("Heart rate (beats per minute)")
+    geom_text(aes(label=heartbeats$Djur),hjust=-0.25, vjust=heartbeats$verticaloffset)+
+    scale_x_continuous(limits = c(4, 10))+
+    ylab("Livslängd (år)")+
+    xlab("Hjärtfrekvens (Log2-skala)")
 
 ## ggtitle("Heart Rate and longevity in mammals", subtitle = NULL)
 
 ``` 
-**Figure**: Heart Rate and longevity in mammals.
+**Figur**: Hjärtfrekvens och livstid hos däggdjur. X-axeln är i Log2-skala, vilket innebär att en enhets skillnad motsvarar en fördubbling av hjärtfrekvensen. En människa har hjärtfrekvens 60 slag/minut och en hamster 450 slag/minut. 
+
+Vi ser att människan har en något längre livslängd än vad som skulle förutsägas av vår medelhjärtfrekvens.
 
 Data för figuren kommer från [Thayer Watkins vid San José State University](http://www.sjsu.edu/faculty/watkins/longevity.htm), som också skriver: _A useful line of analysis is to consider the effect of scale changes for creatures which are similar in shape and only differ in scale. As the scale of an animal increases the body weight and volume increase with the cube of scale. The volume of blood flow required to feed that bulk also increases with the cube of scale. The cross sectional area of the arteries and the veins required to carry that blood flow only increases with the square of scale. There are other area-volume relationships which impose limitations on creatures._
