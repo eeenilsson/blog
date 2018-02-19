@@ -3,6 +3,7 @@ title: "Kuhn och Popper"
 author: "eriknilsson"
 date: 2018-07-17
 categories: ["Artikel"]
+draft: true
 tags: ["Ontologi", "Vetenskap"]
 ---
 
