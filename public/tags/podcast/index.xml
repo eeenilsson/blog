@@ -27,20 +27,12 @@ Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/post/nasa_planets/</guid>
-<<<<<<< HEAD
-      <description>Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
-Länk: https://saturn.jpl.nasa.gov/
- Juno Rymdsonden vid Jupiter som också tagit fantastiska bilder.
-Länk: https://www.nasa.gov/mission_pages/juno/main/index.html
- </description>
-=======
       <description>Gravity assist I NASAs Gravity Assist Podcast berättas om alla solsystemets himlakroppar, från solen till Kuiperbältet, och de rymdsonder som utforskat dem.
  Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
 Foto av Saturnus, från nasa.gov
   Juno Rymdsonden vid Jupiter.
 Jupiter, Io och Europa, från nasa.gov
   </description>
->>>>>>> minorfixes
     </item>
     
     <item>
@@ -97,8 +89,6 @@ Distanskursen “Narrating madness” vid Umeå Universitet:
     </item>
     
     <item>
-<<<<<<< HEAD
-=======
       <title>What is life</title>
       <link>/post/whatislife/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
@@ -112,7 +102,6 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
     </item>
     
     <item>
->>>>>>> minorfixes
       <title>Vetenskaplig världsbild: Tid</title>
       <link>/post/science_ontology_time/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
@@ -121,18 +110,6 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
       <description>Geologisk tid, relativitet, samtidighet, orsak och verkan
 Tidsperspektiv Tiden som förflutit sedan Big Bang är ungefär 13.8 miljarder (13.8x10^9) år och jorden är ca 4.54 miljarder år gammal. Eukaryoter har funnits i ca 2 miljarder år och människoarter (homininer) i 0.002 miljarder (2x10^6) år.
 Från Wikipedia: This clock representation shows some of the major units of geological time and definitive events of Earth history. The Hadean eon represents the time before fossil record of life on Earth; its upper boundary is now regarded as 4.</description>
-    </item>
-    
-    <item>
-      <title>The Dunedin Study</title>
-      <link>/post/thedunedinstudy/</link>
-      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/thedunedinstudy/</guid>
-      <description>I “The Dunedin Multidisciplinary Health &amp;amp; Development Study” har man följt 1037 personer födda 1972-73 i över 40 år. Livshistoriens betydelse för åldrande, kognition med mera har studerats. Verkar intressant för att värdera effekter av arv och miljö.
-The Dunedin Study
-Om studien i ett podcastavsnitt från Science:
- Following 1000 people for decades to learn about the interplay of health, environment, and temperament  </description>
     </item>
     
   </channel>

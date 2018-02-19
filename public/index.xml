@@ -48,20 +48,12 @@ Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/post/nasa_planets/</guid>
-<<<<<<< HEAD
-      <description>Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
-Länk: https://saturn.jpl.nasa.gov/
- Juno Rymdsonden vid Jupiter som också tagit fantastiska bilder.
-Länk: https://www.nasa.gov/mission_pages/juno/main/index.html
- </description>
-=======
       <description>Gravity assist I NASAs Gravity Assist Podcast berättas om alla solsystemets himlakroppar, från solen till Kuiperbältet, och de rymdsonder som utforskat dem.
  Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
 Foto av Saturnus, från nasa.gov
   Juno Rymdsonden vid Jupiter.
 Jupiter, Io och Europa, från nasa.gov
   </description>
->>>>>>> minorfixes
     </item>
     
     <item>
@@ -129,8 +121,6 @@ Skillnaden mot andra vanliga statistikprogram (tex SPSS) är att man skriver kom
     </item>
     
     <item>
-<<<<<<< HEAD
-=======
       <title>What is life</title>
       <link>/post/whatislife/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
@@ -144,7 +134,6 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
     </item>
     
     <item>
->>>>>>> minorfixes
       <title>Planeters och stjärnors storlekar</title>
       <link>/post/planetsizes/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
@@ -227,18 +216,6 @@ Heading 3 Yet another, but centered! Excepteur sint occaecat cupidatat non proid
 Available Widgets Minimo has the following built-in Widgets:
    Name Slug     1. About about   2. Recent Posts recent_posts   3. Social Menu social_menu   4. Taxonomy Cloud taxonomy_cloud    Widget Configuration Options Here are the configuration options available for the Widgets:
 Widget: About  about [Map]:  title [String]: Title</description>
-    </item>
-    
-    <item>
-      <title>The Dunedin Study</title>
-      <link>/post/thedunedinstudy/</link>
-      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/thedunedinstudy/</guid>
-      <description>I “The Dunedin Multidisciplinary Health &amp;amp; Development Study” har man följt 1037 personer födda 1972-73 i över 40 år. Livshistoriens betydelse för åldrande, kognition med mera har studerats. Verkar intressant för att värdera effekter av arv och miljö.
-The Dunedin Study
-Om studien i ett podcastavsnitt från Science:
- Following 1000 people for decades to learn about the interplay of health, environment, and temperament  </description>
     </item>
     
     <item>
