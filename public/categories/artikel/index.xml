@@ -17,7 +17,29 @@
       
       <guid>/post/kuhn_popper/</guid>
       <description>Paradigm och falsifiering Kuhn och Popper.
- </description>
+ Den kopernikanska omvälvningen Animation: Motion of Sun, Earth, and Mars according to heliocentrism (left) and to geocentrism (right), before the Copernican-Galilean-Newtonian revolution. Note the retrograde motion of Mars on the right. Yellow dot, Sun; blue, Earth; red, Mars. (In order to create a smooth animation, it is assumed that the period of revolution of Mars is exactly 2 years, instead of the actual value, 1.</description>
+    </item>
+    
+    <item>
+      <title>Evolution</title>
+      <link>/post/evolution/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/evolution/</guid>
+      <description>Circle of Life
+ Figur: Circle of Life. It is based on analysis of small sub-unit rRNA sequences sampled from about 3,000 species from throughout the Tree of Life. From Life: The Science of Biology, 9th ed., by D. Sadava, D. M. Hillis, H. C. Heller, and M. Berenbaum (Sinauer Associates and W. H. Freeman, 2011).
+Evolutionens hastighet  Se artikeln om tid    Snabb anpassning  Snabb evolution vid högt selektionstryck.</description>
+    </item>
+    
+    <item>
+      <title>Orsakssamband</title>
+      <link>/post/directed_acyclic/</link>
+      <pubDate>Mon, 12 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/directed_acyclic/</guid>
+      <description>Några verktyg för slutledningar om orsakssamband inom medicinsk forskning presenteras nedan.
+Counterfactuals och Potential outcomes Potential outcomes är exempelvis två möjliga behandlinga vid randomisering. Counterfactual är den (eller de) behandling(-ar) individen inte fick efter randomisering. Frågan vid kausalitet är då hur individen skulle ha svarat på den kontrafaktiska behandlingen (i detta exempel).
+ Riktade acykliska grafer Riktade acykliska grafer (eng Directed Acyclic Graphs, DAGs) kan användas för att resonera kring orsak och verkan, samt för att reducera antalet förväxlingsfaktorer som behöver tas med i en regressionmodell.</description>
     </item>
     
     <item>
@@ -67,7 +89,7 @@ Skillnaden mot andra vanliga statistikprogram (tex SPSS) är att man skriver kom
     </item>
     
     <item>
-      <title>What is life</title>
+      <title>What is life?</title>
       <link>/post/whatislife/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       

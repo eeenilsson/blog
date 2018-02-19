@@ -19,7 +19,7 @@ En utgångspunkt för biologisk skala är den [statistiska mekaniken](/media/sta
 ![UV](/media/uv_scale.png)
 _Screenshot från animationen "Scale of the Universe" av Cary Huang._
 
-I filmen "Powers of Ten" zoomas perspektivet från det mikroskopiska till det kosmiska, med skalain noterad i tiopotenser som referens:
+I filmen "Powers of Ten" zoomas perspektivet från det mikroskopiska till det kosmiska, med skalan noterad i tiopotenser som referens:
 
 <iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
