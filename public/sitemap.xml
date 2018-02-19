@@ -43,7 +43,7 @@
   </url>
   
   <url>
-    <loc>/post/2018-02-19-sciencepod/</loc>
+    <loc>/post/sciencepods/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
   </url>
   
@@ -54,6 +54,14 @@
   
   <url>
     <loc>/post/science_tools/</loc>
+<<<<<<< HEAD
+=======
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/whatislife/</loc>
+>>>>>>> minorfixes
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
   </url>
   
@@ -98,7 +106,7 @@
   </url>
   
   <url>
-    <loc>/post/2018feb-dunedinstudy/</loc>
+    <loc>/post/thedunedinstudy/</loc>
     <lastmod>2018-01-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -244,12 +252,6 @@
   </url>
   
   <url>
-    <loc>/tags/neurovetenskap/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/n%C3%B6je/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
@@ -284,8 +286,19 @@
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>/categories/r/</loc>
     <lastmod>2018-02-12T23:40:00+06:00</lastmod>
+=======
+    <loc>/tags/psykiatri/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+>>>>>>> minorfixes
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   

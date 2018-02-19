@@ -8,7 +8,7 @@ tags: ["Podcast", "Vetenskap", "Nöje"]
 
 # Science podcast
 
-En podd från American Association for the Advancement of Science (AAAS) som sammanfattar intressanta vetenskapsnyheter från olika fält, iblad med intervjuer av forskare som ligger bakom nya rön.
+En podd från American Association for the Advancement of Science (AAAS) som sammanfattar intressanta vetenskapsnyheter från olika fält, ibland med intervjuer av forskare som ligger bakom nya rön.
 
 Länk: <http://www.sciencemag.org/podcasts>
 
