@@ -23,7 +23,7 @@
   </url>
   
   <url>
-    <loc>/post/2018-02-16-astrobiology/</loc>
+    <loc>/post/astrobiologi/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
   </url>
   
@@ -165,6 +165,12 @@
   </url>
   
   <url>
+    <loc>/tags/astronomi/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
     <priority>0</priority>
@@ -199,6 +205,12 @@
   <url>
     <loc>/categories/features/</loc>
     <lastmod>2018-02-09T16:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/f%C3%B6rel%C3%A4sningar/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,12 +275,24 @@
   </url>
   
   <url>
+    <loc>/tags/ontologi/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/og/</loc>
   </url>
   
   <url>
     <loc>/categories/others/</loc>
     <lastmod>2018-02-08T15:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/podcast/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -329,6 +353,12 @@
   <url>
     <loc>/categories/vetenskap/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vetenskap/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

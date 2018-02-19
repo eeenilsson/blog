@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Föreläsningar on Loggen</title>
+    <link>/categories/f%C3%B6rel%C3%A4sningar/</link>
+    <description>Recent content in Föreläsningar on Loggen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/f%C3%B6rel%C3%A4sningar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Astrobiologi</title>
+      <link>/post/astrobiologi/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/astrobiologi/</guid>
+      <description>Föreläsningar om astrobiologi “Astronomy 141” är bra grunläggande föreläsningar. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
+Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
+ Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
+ 
+Länk: NASA om exoplaneter</description>
+    </item>
+    
+  </channel>
+</rss>

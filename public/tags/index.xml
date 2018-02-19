@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Astronomi</title>
+      <link>/tags/astronomi/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/astronomi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Authors</title>
       <link>/tags/authors/</link>
       <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
@@ -101,11 +110,29 @@
     </item>
     
     <item>
+      <title>Ontologi</title>
+      <link>/tags/ontologi/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ontologi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Opengraph</title>
       <link>/tags/og/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>/tags/podcast/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/podcast/</guid>
       <description></description>
     </item>
     
@@ -142,6 +169,15 @@
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vetenskap</title>
+      <link>/tags/vetenskap/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vetenskap/</guid>
       <description></description>
     </item>
     
