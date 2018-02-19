@@ -2,8 +2,8 @@
 title: "The Dunedin Study"
 author: ["eriknilsson"]
 date: 2018-01-20
-categories: ["Vetenskap"]
-tags: ["Podcast", "Vetenskap", "Psykiatri", "Kognition"]
+categories: ["Blänkare", "Resurs"]
+tags: ["Podcast", "Vetenskap", "Neurovetenskap"]
 ---
 
 I "The Dunedin Multidisciplinary Health & Development Study" har man följt 1037 personer födda 1972-73 i över 40 år. Livshistoriens betydelse för åldrande, kognition med mera har studerats. Verkar intressant för att värdera effekter av arv och miljö.

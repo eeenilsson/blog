@@ -5,31 +5,10 @@
     <link>/tags/podcast/</link>
     <description>Recent content in Podcast on Loggen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/podcast/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Kuhn och Popper</title>
-      <link>/post/kuhn_popper/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/kuhn_popper/</guid>
-      <description>Paradigm och falsifiering Kuhn och Popper.
- </description>
-    </item>
-    
-    <item>
-      <title>Vetenskaplig notation</title>
-      <link>/post/scientific_notation/</link>
-      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/scientific_notation/</guid>
-      <description>Att skriva stora och små tal För att på ett koncist sätt skriva tal som är väldigt stora eller väldigt små används vetenskaplig notation. Tal skrivs då med tipopotenser, exempelvis två miljoner = 2x10^6.
- Perspektiv: Powers of Ten  POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
- Mantissan: Skala respektive precision. Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som 1.25x10^3 där delen 1.</description>
-    </item>
     
     <item>
       <title>Astrobiologi</title>
@@ -37,11 +16,22 @@
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/post/astrobiologi/</guid>
-      <description>Föreläsningar om astrobiologi “Astronomy 141” är bra grunläggande föreläsningar. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
+      <description>Föreläsningar om astrobiologi “Astronomy 141” är en grundläggande föreläsningsserie om astrobiologi och tillhörande områden, exempelvis jordens geologiska historia och uppkomsten av liv på jorden. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
 Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
- Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
- 
-Länk: NASA om exoplaneter</description>
+ Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.</description>
+    </item>
+    
+    <item>
+      <title>NASA utforskar planeterna</title>
+      <link>/post/2018-02-19-nasa/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-02-19-nasa/</guid>
+      <description>Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
+Länk: https://saturn.jpl.nasa.gov/
+ Juno Rymdsonden vid Jupiter som också tagit fantastiska bilder.
+Länk: https://www.nasa.gov/mission_pages/juno/main/index.html
+ </description>
     </item>
     
     <item>
@@ -111,36 +101,6 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
     </item>
     
     <item>
-      <title>Planeters och stjärnors storlekar</title>
-      <link>/post/planetsizes/</link>
-      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/planetsizes/</guid>
-      <description>Nedan följer en film som jämför storleken på olika planeter och stjärnor:
- </description>
-    </item>
-    
-    <item>
-      <title>Powers of Ten</title>
-      <link>/post/powersoften/</link>
-      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/powersoften/</guid>
-      <description>I filmen “Powers of Ten” zoomas perspektivet från det mikroskopiska till det kosmiska, med skalain noterad i tiopotenser som referens:
- POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)</description>
-    </item>
-    
-    <item>
-      <title>Vetenskaplig världsbild: Skala</title>
-      <link>/post/science_ontology_scale/</link>
-      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/science_ontology_scale/</guid>
-      <description>Statististisk termodynamik och betydelsen av N Eller, Schrödinger utan katten.
-En utgångspunkt för biologisk skala är den statistiska mekaniken. För att biologiska system skall fungera måste dess funktioner bestå av interaktioner mellan en tillräcklig mängd små partiklar (atomer, molekyler) för att deras interaktioner skall uppnå en tillräckligt hög precision eller tillförlitlighet. Ifall dessa interaktioner skulle ske mellan en mindre mängd partiklar skulle exempelvis termiska rörelser medföra stora fluktuationer i utfallet.</description>
-    </item>
-    
-    <item>
       <title>Vetenskaplig världsbild: Tid</title>
       <link>/post/science_ontology_time/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
@@ -149,17 +109,6 @@ En utgångspunkt för biologisk skala är den statistiska mekaniken. För att bi
       <description>Geologisk tid, relativitet, samtidighet, orsak och verkan
 Tidsperspektiv Tiden som förflutit sedan Big Bang är ungefär 13.8 miljarder (13.8x10^9) år och jorden är ca 4.54 miljarder år gammal. Eukaryoter har funnits i ca 2 miljarder år och människoarter (homininer) i 0.002 miljarder (2x10^6) år.
 Från Wikipedia: This clock representation shows some of the major units of geological time and definitive events of Earth history. The Hadean eon represents the time before fossil record of life on Earth; its upper boundary is now regarded as 4.</description>
-    </item>
-    
-    <item>
-      <title>Vetenskaplig världsbild: Vår plats i universum</title>
-      <link>/post/science_ontology_universe/</link>
-      <pubDate>Sat, 10 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/science_ontology_universe/</guid>
-      <description>Geologisk tid  Evolution Människans evolution  Boktips: Sapiens: A Brief History of Humankind    Universum Astrobiologi Astrobiologi
-  Skala  Övrigt Uddenberg, Idéer om Liv.
- </description>
     </item>
     
     <item>

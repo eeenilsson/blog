@@ -5,26 +5,26 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Loggen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Astronomi</title>
-      <link>/categories/astronomi/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      <title>Artikel</title>
+      <link>/categories/artikel/</link>
+      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/astronomi/</guid>
+      <guid>/categories/artikel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Biologi</title>
-      <link>/categories/biologi/</link>
+      <title>Blänkare</title>
+      <link>/categories/bl%C3%A4nkare/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
-      <guid>/categories/biologi/</guid>
+      <guid>/categories/bl%C3%A4nkare/</guid>
       <description></description>
     </item>
     
@@ -38,47 +38,11 @@
     </item>
     
     <item>
-      <title>Föreläsningar</title>
-      <link>/categories/f%C3%B6rel%C3%A4sningar/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/f%C3%B6rel%C3%A4sningar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Geologi</title>
-      <link>/categories/geologi/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/geologi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Historia</title>
-      <link>/categories/historia/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/historia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Media</title>
       <link>/categories/media/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/categories/media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neurovetenskap</title>
-      <link>/categories/neurovetenskap/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/neurovetenskap/</guid>
       <description></description>
     </item>
     
@@ -92,15 +56,6 @@
     </item>
     
     <item>
-      <title>Psykiatri</title>
-      <link>/categories/psykiatri/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/psykiatri/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R</title>
       <link>/categories/r/</link>
       <pubDate>Sat, 07 Feb 2015 18:30:00 +0600</pubDate>
@@ -110,29 +65,20 @@
     </item>
     
     <item>
+      <title>Resurs</title>
+      <link>/categories/resurs/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/resurs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tutorial</title>
       <link>/categories/tutorial/</link>
       <pubDate>Mon, 25 Sep 2017 06:00:00 +0600</pubDate>
       
       <guid>/categories/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vetenskap</title>
-      <link>/categories/vetenskap/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/vetenskap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vetenskapsteori</title>
-      <link>/categories/vetenskapsteori/</link>
-      <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/vetenskapsteori/</guid>
       <description></description>
     </item>
     
