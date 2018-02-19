@@ -19,7 +19,12 @@ En utgångspunkt för biologisk skala är den [statistiska mekaniken](/media/sta
 ![UV](/media/uv_scale.png)
 _Screenshot från animationen "Scale of the Universe" av Cary Huang._
 
-Genom evolutionen [varierar en arts storlek](http://www.nhm.ac.uk/our-science/our-work/origins-evolution-and-futures/size-matters.html) beroende på temperatur och andra omgivningsfaktorer.
+I filmen "Powers of Ten" zoomas perspektivet från det mikroskopiska till det kosmiska, med skalain noterad i tiopotenser som referens:
+
+<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+
 
 # Se även
 
@@ -27,16 +32,7 @@ Genom evolutionen [varierar en arts storlek](http://www.nhm.ac.uk/our-science/ou
 
 ...inlägget om _[ventenskaplig notation](/post/scientific_notation)_.
 
-...filmen "Powers of Ten":
-
-<iframe width="694" height="520" src="https://www.youtube.com/embed/0fKBhvDjuy0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
-
-
-...jämförelse av planeters och stjärnors storlekar: 
-
-<iframe width="694" height="555" src="https://www.youtube.com/embed/HEheh1BH34Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+...[inlägget med jämförelse av planeters och stjärnors storlekar](/posts/planetsizes).
 
 
 # Sambandet mellan hjärtfrekvens och livslängd
@@ -72,3 +68,7 @@ ggplot(heartbeats, aes(x=LogHeartRate, y=Longevity)) +
 Vi ser att människan har en något längre livslängd än vad som skulle förutsägas av vår medelhjärtfrekvens.
 
 Data för figuren kommer från [Thayer Watkins vid San José State University](http://www.sjsu.edu/faculty/watkins/longevity.htm), som också skriver: _A useful line of analysis is to consider the effect of scale changes for creatures which are similar in shape and only differ in scale. As the scale of an animal increases the body weight and volume increase with the cube of scale. The volume of blood flow required to feed that bulk also increases with the cube of scale. The cross sectional area of the arteries and the veins required to carry that blood flow only increases with the square of scale. There are other area-volume relationships which impose limitations on creatures._
+
+# Notering
+
+Genom evolutionen [varierar en arts storlek](http://www.nhm.ac.uk/our-science/our-work/origins-evolution-and-futures/size-matters.html) beroende på temperatur och andra omgivningsfaktorer.

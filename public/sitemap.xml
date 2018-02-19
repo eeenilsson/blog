@@ -63,6 +63,16 @@
   </url>
   
   <url>
+    <loc>/post/planetsizes/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/powersoften/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/science_ontology_scale/</loc>
     <lastmod>2018-02-17T00:00:00+00:00</lastmod>
   </url>
@@ -245,6 +255,12 @@
   </url>
   
   <url>
+    <loc>/categories/media/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/media/</loc>
     <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -269,8 +285,8 @@
   </url>
   
   <url>
-    <loc>/tags/ontologi/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+    <loc>/tags/n%C3%B6je/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   

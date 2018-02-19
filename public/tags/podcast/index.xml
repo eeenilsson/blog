@@ -32,16 +32,16 @@
     </item>
     
     <item>
-      <title>NASA utforskar planeterna</title>
-      <link>/post/2018-02-19-nasa/</link>
+      <title>Astrobiologi</title>
+      <link>/post/astrobiologi/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
-      <guid>/post/2018-02-19-nasa/</guid>
-      <description>Cassini Rymdsonden vid saturnus som tagit fantastiska bilder.
-Länk: https://saturn.jpl.nasa.gov/
- Juno Rymdsonden vid Jupiter som också tagit fantastiska bilder.
-Länk: https://www.nasa.gov/mission_pages/juno/main/index.html
- </description>
+      <guid>/post/astrobiologi/</guid>
+      <description>Föreläsningar om astrobiologi “Astronomy 141” är bra grunläggande föreläsningar. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
+Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
+ Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
+ 
+Länk: NASA om exoplaneter</description>
     </item>
     
     <item>
@@ -111,6 +111,26 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
     </item>
     
     <item>
+      <title>Planeters och stjärnors storlekar</title>
+      <link>/post/planetsizes/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/planetsizes/</guid>
+      <description>Nedan följer en film som jämför storleken på olika planeter och stjärnor:
+ </description>
+    </item>
+    
+    <item>
+      <title>Powers of Ten</title>
+      <link>/post/powersoften/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/powersoften/</guid>
+      <description>I filmen “Powers of Ten” zoomas perspektivet från det mikroskopiska till det kosmiska, med skalain noterad i tiopotenser som referens:
+ POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)</description>
+    </item>
+    
+    <item>
       <title>Vetenskaplig världsbild: Skala</title>
       <link>/post/science_ontology_scale/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
@@ -138,7 +158,8 @@ Från Wikipedia: This clock representation shows some of the major units of geol
       
       <guid>/post/science_ontology_universe/</guid>
       <description>Geologisk tid  Evolution Människans evolution  Boktips: Sapiens: A Brief History of Humankind    Universum Astrobiologi Astrobiologi
-  Skala  </description>
+  Skala  Övrigt Uddenberg, Idéer om Liv.
+ </description>
     </item>
     
     <item>

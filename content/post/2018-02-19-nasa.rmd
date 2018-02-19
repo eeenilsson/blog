@@ -2,8 +2,8 @@
 title: "NASA utforskar planeterna"
 author: "Erik Nilsson"
 date: 2018-02-16T21:13:14-05:00
-categories: ["Astronomi"]
-tags: ["Podcast", "Astronomi", "Nöje", "Vetenskap"]
+categories: [media]
+tags: [podcast, astronomi, nöje, vetenskap]
 ---
 
 # Cassini

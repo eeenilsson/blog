@@ -32,6 +32,19 @@
     </item>
     
     <item>
+      <title>Astrobiologi</title>
+      <link>/post/astrobiologi/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/astrobiologi/</guid>
+      <description>Föreläsningar om astrobiologi “Astronomy 141” är bra grunläggande föreläsningar. “The topics covered in this course lie at the interfaces between astronomy, chemistry, biology, geology, and the earth and planetary sciences.”
+Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
+ Exoplaneter Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt eget solsystem ses till höger i bilden. Avstånden är inte skalenliga men planeternas relativa storlek visas, liksom deras temperaturer.
+ 
+Länk: NASA om exoplaneter</description>
+    </item>
+    
+    <item>
       <title>What is life</title>
       <link>/post/2018-02-16-whatislife/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
@@ -42,6 +55,26 @@ På Karolinsk Institutet ges en forskarkurs i ämnet: http://kiwas.ki.se/katalog
 Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.wikipedia.org/wiki/What_Is_Life%3F
  Föreläsningar om astrobiologi: http://www.astronomy.ohio-state.edu/~pogge/Ast141/.
    </description>
+    </item>
+    
+    <item>
+      <title>Planeters och stjärnors storlekar</title>
+      <link>/post/planetsizes/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/planetsizes/</guid>
+      <description>Nedan följer en film som jämför storleken på olika planeter och stjärnor:
+ </description>
+    </item>
+    
+    <item>
+      <title>Powers of Ten</title>
+      <link>/post/powersoften/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/powersoften/</guid>
+      <description>I filmen “Powers of Ten” zoomas perspektivet från det mikroskopiska till det kosmiska, med skalain noterad i tiopotenser som referens:
+ POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)</description>
     </item>
     
     <item>
@@ -72,7 +105,8 @@ Från Wikipedia: This clock representation shows some of the major units of geol
       
       <guid>/post/science_ontology_universe/</guid>
       <description>Geologisk tid  Evolution Människans evolution  Boktips: Sapiens: A Brief History of Humankind    Universum Astrobiologi Astrobiologi
-  Skala  </description>
+  Skala  Övrigt Uddenberg, Idéer om Liv.
+ </description>
     </item>
     
   </channel>
