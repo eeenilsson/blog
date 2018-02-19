@@ -2,8 +2,8 @@
 title: "Kuhn och Popper"
 author: "eriknilsson"
 date: 2018-07-17
-categories: ["Vetenskapsteori"]
-tags: ["Ontologi", "Vetenskap", "Podcast", "Media"]
+categories: ["Artikel"]
+tags: ["Ontologi", "Vetenskap"]
 ---
 
 # Paradigm och falsifiering
