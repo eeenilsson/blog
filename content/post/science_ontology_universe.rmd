@@ -6,9 +6,9 @@ categories: ["Astronomi", "Biologi", "Geologi", "Vetenskapsteori"]
 tags: ["Ontologi", "Vetenskap", "Podcast", "Media"]
 ---
 
-# Evolution
+# Geologisk tid
 
-## Geologisk tid
+# Evolution
 
 ## Människans evolution
 
@@ -30,6 +30,4 @@ Nedan är en animering som visar exoplaneter sedda med Keplerteleskopet. Vårt e
 
 [Länk: NASA om exoplaneter](https://exoplanets.nasa.gov/)
 
-### Jämförelse av planeters och stjärnors storlekar
-
-En till film om storlek: <iframe width="694" height="555" src="https://www.youtube.com/embed/HEheh1BH34Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+# Skala
