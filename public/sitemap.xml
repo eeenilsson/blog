@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>/post/misc/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/evolution/</loc>
     <lastmod>2010-02-19T00:00:00+00:00</lastmod>
   </url>
@@ -38,6 +43,11 @@
   </url>
   
   <url>
+    <loc>/post/psychopharma_efficacy/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/nasa_planets/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
   </url>
@@ -54,6 +64,11 @@
   
   <url>
     <loc>/post/sciencepods/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/psychiatryresources/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
   </url>
   
@@ -249,7 +264,7 @@
   
   <url>
     <loc>/tags/n%C3%B6je/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -288,20 +303,26 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
-    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/r/</loc>
     <lastmod>2018-02-12T23:40:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/categories/resurs/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/resurser/</loc>
+    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

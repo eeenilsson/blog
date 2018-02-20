@@ -1,0 +1,38 @@
+---
+title: "Fungerar psykofarmaka?"
+author: "Erik Nilsson"
+date: 2018-02-16T21:13:14-05:00
+categories: ["Resurser"]
+description: [Psykofamakas effektivitet har diskuterats och ifrågasatts.]
+tags: ["Podcast", "Psykiatri", "Kurser"]
+toc: true
+draft: true
+
+---
+
+# Bloggar
+
+Blogg
+
+# Reviderade resultat från kliniska prövningar
+
+[BMJ Editorial: Liberating the data from clinical trials](http://www.bmj.com/content/351/bmj.h4601)
+
+### Prövning N
+
+_Ursprungligt resultat:_
+
+_Reviderat resultat_
+
+[Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence](http://www.bmj.com/content/351/bmj.h4320)
+
+
+
+# Övrigt
+
+[All Trials Registered, All Results Reported](http://www.alltrials.net/) är ett initiativ från Ben Goldacre, BMJ, Centre for Evidence-based Medicine, Cochrane Collaboration, James Lind Initiative, PLOS and Sense about Science and is being led in the US by Sense About Science USA, Dartmouth’s Geisel School of Medicine and the Dartmouth Institute for Health Policy & Clinical Practice.
+
+
+<http://firmfound.org/>
+
+[Lown Institute](https://lowninstitute.org/)
