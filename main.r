@@ -11,7 +11,7 @@
 
 ## Step 2: Clone empty repo to pc
 setwd("/home/eee/e/blog") # Start R in the new empty folder
-setwd("/home/eee/e/ols")
+##setwd("/home/eee/e/ols")
 
 ## Step 3: Create site
 ## blogdown::new_site(theme = "MunifTanjim/minimo") ## Minimo

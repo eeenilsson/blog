@@ -43,7 +43,22 @@
   </url>
   
   <url>
+    <loc>/post/brainwaves/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/researchideas/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/psychopharma_efficacy/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/conciousness/</loc>
     <lastmod>2018-02-16T21:13:14-05:00</lastmod>
   </url>
   
@@ -229,6 +244,12 @@
   <url>
     <loc>/categories/features/</loc>
     <lastmod>2018-02-09T16:15:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/forskning/</loc>
+    <lastmod>2018-02-16T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   

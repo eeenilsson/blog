@@ -4,7 +4,7 @@ author: "Erik Nilsson"
 date: 2018-02-16T21:13:14-05:00
 categories: ["Resurser"]
 description: [Psykofamakas effektivitet har diskuterats och ifrågasatts.]
-tags: ["Podcast", "Psykiatri", "Kurser"]
+tags: ["Psykiatri", "Kurser"]
 toc: true
 draft: true
 
@@ -26,6 +26,16 @@ _Reviderat resultat_
 
 [Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence](http://www.bmj.com/content/351/bmj.h4320)
 
+# Stor metaanalys om effekt av antidepressiva
+
+I en stor metaanalys fann man att antidepressiva hade viss effekt och att det möjligen kan vara skillnader i effekt mellan olika antidepressiva. 
+[Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis](http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(17)32802-7/fulltext) (Cipriani et al, Lancet 2018). Författarna skriver:
+
+> Agomelatine, amitriptyline, escitalopram, mirtazapine, paroxetine, venlafaxine, and vortioxetine were more effective than other antidepressants (ORs ranging between 1·19 and 1·96)
+
+> In terms of acceptability, agomelatine, citalopram, escitalopram, fluoxetine, sertraline, and vortioxetine were more tolerable than other antidepressants (ORs ranging between 0·43 and 0·77).
+
+Av detta framstår det som att agomelatine (Valdoxan&reg;), escitalopram och vortioxetine (Brintellix&reg;) var både mer effektiva än _vissa andra_ antidepressiva och mer tolerabla än _vissa andra_ antidepressiva. Man kan dock notera att ingen av dessa var statistiskt bättre än exempelvis sertralin även om agomegalin var mer tolerabelt än sertralin. En slutsats kan vara att escitalopram är ett rimligt förstahandsval? Clomipramine och trazodone förefaller ligga dåligt till i både effektivitet och tolerabilitet, men konfidensintervallen är stora så några säkra slutsatser om skillnader mellan antidepressiva kan inte dras.
 
 
 # Övrigt
