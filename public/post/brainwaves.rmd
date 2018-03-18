@@ -1,5 +1,5 @@
 ---
-title: "Forskningsuppslag"
+title: "Brain Waves"
 author: "Erik Nilsson"
 date: 2018-02-16T21:13:14-05:00
 categories: ["Artikel"]
@@ -11,7 +11,7 @@ draft: true
 
 # Brain Waves
 
-[En artikel i nature](https://www.nature.com/articles/d41586-018-02391-6) om "hjärnvågor" och deras eventuella betydelse. Nämner bla forskning av Li-Huei Tsai som använt ljus för att påverka amylodia plack, eventuellt vis påverkan på [mikroglia](https://www.ncbi.nlm.nih.gov/pubmed/27929004?dopt=Abstract).
+[En artikel i nature](https://www.nature.com/articles/d41586-018-02391-6) om "hjärnvågor" och deras eventuella betydelse. Nämner bla forskning av Li-Huei Tsai som använt ljus för att påverka amylodia plack, och funnit viss påverkan på [mikroglia](https://www.ncbi.nlm.nih.gov/pubmed/27929004?dopt=Abstract) av behandlingen.
 
 > The oscillations also provide a potential mechanism for how the brain creates a coherent experience from the chaotic symphony of stimuli hitting the senses at any one time, a puzzle known as the ‘binding problem’. By synchronizing the firing rates of neurons responding to the same event, brainwaves might ensure that the all of the relevant information relating to one object arrives at the correct area of the brain at exactly the right time.
 
