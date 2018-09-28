@@ -6,7 +6,7 @@ categories: ["Resurser"]
 description: [Länkar till psykiatriresurser.]
 tags: ["Podcast", "Nöje", "Psykiatri", "Kurser"]
 draft: true
-toc: tru
+toc: true
 
 ---
 
@@ -27,24 +27,38 @@ toc: tru
 
 [Amazing World of Psychiatry](https://theamazingworldofpsychiatry.wordpress.com/) verkar innehålla en del intressant om psykiatrihistoria, antropologi och psykiatrisk forskning. _The Amazing World of Psychiatry blog is a celebration of psychiatry and the benefits it brings to people and society._
 
-
-# Media
+[Hyperbole and a Half](http://hyperboleandahalf.blogspot.com/), en serie-blogg om självupplevd depression.
 
 # Undervisning
 
-**Psychopharmacology Institute** publicerar Filmer och illustrerade artiklar. För en del av materialet krävs prenumeration. Exempelvis finns inslag om augmentation, inflammatoriska biomarkörer med mera. _The Psychopharmacology Institute is an educational platform owned by IMEA – International Medical Education Academy LTD, a digital company based in the UK serving the global medical community. [...] Our concept of essential aspects includes: clinical features of psychiatric disorders, pharmacology, effectiveness and adverse effects of psychotropic medications._ 
+**Psychopharmacology Institute** publicerar Filmer och illustrerade artiklar. För en del av materialet krävs prenumeration. Exempelvis finns inslag om augmentation, inflammatoriska biomarkörer med mera. 
 
-[Länk: Clinical Psychopharmacology Education For Prescribers](https://psychopharmacologyinstitute.com/). 
+>The Psychopharmacology Institute is an educational platform owned by IMEA – International Medical Education Academy LTD, a digital company based in the UK serving the global medical community. [...] Our concept of essential aspects includes: clinical features of psychiatric disorders, pharmacology, effectiveness and adverse effects of psychotropic medications.
 
-Från research gate: _Dr. Flavio Guzman is the editor of the Psychopharmacology Institute. He is a psychiatrist in private practice in Mendoza, Argentina and an Assistant Professor of Pharmacology at the University of Mendoza. He founded the Psychopharmacology Institute in 2013, with the vision of providing evidence-based education for practicing clinicians free of commercial bias._
+&#x1F517; [Clinical Psychopharmacology Education For Prescribers](https://psychopharmacologyinstitute.com/). 
 
+> Dr. Flavio Guzman is the editor of the Psychopharmacology Institute. He is a psychiatrist in private practice in Mendoza, Argentina and an Assistant Professor of Pharmacology at the University of Mendoza. He founded the Psychopharmacology Institute in 2013, with the vision of providing evidence-based education for practicing clinicians free of commercial bias. [Från research gate]
+
+**Providers Clinical Support System**
+
+> PCSS is a program funded by the Substance Abuse and Mental Health Services Administration (SAMHSA) created in response to the opioid overdose epidemic to train primary care providers in the evidence-based prevention and treatment of opioid use disorders (OUD)  and treatment of chronic pain. 
+
+&#x1F517; [PCSS](https://pcssnow.org/)
 
 # Kurser
+
+
+# Kongresser
+
+ECNP
+
+World Psychiatric Association
 
 
 # Att undersöka
 
 [British neuroscience organization](https://www.bna.org.uk/mediacentre/events/2018-10/)
+
 
 # Övrigt/oklar kvalitet
 

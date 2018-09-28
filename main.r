@@ -24,7 +24,9 @@ setwd("/home/eee/e/blog") # Start R in the new empty folder
 getwd()
 blogdown::serve_site()
 
-
+## fixed glibc (mutex) error:
+## devtools::install_github("r-lib/later")
+## require(later)
 
 ## Notes ----------------------------------
 
