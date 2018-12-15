@@ -41,5 +41,36 @@ Deskriptiv statistik Läs gärna på om följande begrepp:
 Bild: Normalfördelning.</description>
     </item>
     
+    <item>
+      <title>Mer statistik för läkarstudenter</title>
+      <link>/post/statistics-youtube/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statistics-youtube/</guid>
+      <description>Fördjupning.
+Youtube clips om statistik Av Kimmo Sorjonen, KI. SPSS används.
+🔗 SPSS, ANOVA, Del A, Envägs
+🔗 SPSS, ANOVA, Del B, Multivariat
+🔗 SPSS, ANOVA, Del C, Upprepade mätningar
+🔗 SPSS, ANOVA, Del D, Multivariat med upprepade mätningar
+🔗 SPSS, ANOVA, Del E, Kovariansanalys
+🔗 SPSS, Regression, Del A, Multipel
+🔗 SPSS, Regression, Del B, Kurvlinjärt
+🔗 SPSS, Regression, Del C, Interaktion
+🔗 SPSS, Regression, Del D, Logistisk
+🔗 SPSS, Risk- och Odds-kvoter</description>
+    </item>
+    
+    <item>
+      <title>Vetenskaplig notation</title>
+      <link>/post/scientific_notation/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/scientific_notation/</guid>
+      <description>Att skriva stora och små tal För att på ett koncist sätt skriva tal som är väldigt stora eller väldigt små används vetenskaplig notation. Tal skrivs då med tipopotenser, exempelvis två miljoner = 2x10^6.
+ Perspektiv: Powers of Ten  POWERS OF TEN © 1977 EAMES OFFICE LLC (Available at www.eamesoffice.com)
+ Mantissan: Skala respektive precision. Tag följande exempel: Talet 125 000 kan med vetanskaplig notation skrivas som 1.25x10^3 där delen 1.</description>
+    </item>
+    
   </channel>
 </rss>

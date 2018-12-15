@@ -7,8 +7,6 @@ description: They heard! – They suspected! – they knew. [Edgar Allan Poe, Te
 tags: ["Podcast", "Historia", "Nöje", "Psykiatri", "Litteratur", "Kurser"]
 ---
 
-# Övrigt
-
 Dan Carlins podcast om religiöst vansinne i den Tyska staden Mûnster under 1500-talet:
 
 >Murderous milennial preachers and prophets take over the German city of Munster after Martin Luther unleashes a Pandora's Box of religious anarchy with the Protestant Revolution. 
@@ -26,3 +24,9 @@ Elyn Saks TED talk om Schizophreni:
 >"Is it okay if I totally trash your office?" It's a question Elyn Saks once asked her doctor, and it wasn't a joke. A legal scholar, in 2007 Saks came forward with her own story of schizophrenia, controlled by drugs and therapy but ever-present. In this powerful talk, she asks us to see people with mental illness clearly, honestly and compassionately.
 
 &#x1F517; [Elyn Saks TED talk](https://www.ted.com/talks/elyn_saks_seeing_mental_illness)
+
+BBC podd om vanföreställningar:
+
+> Experimental psychologist Daniel Freeman explores cases of delusion.
+
+&#x1F517; [A History of Delusions](https://www.bbc.co.uk/programmes/p06tbbhz)

@@ -3,7 +3,7 @@ title: "Vetenskaplig notation"
 author: "eriknilsson"
 date: 2018-02-19
 categories: ["Artikel"]
-tags: ["Vetenskap"]
+tags: ["Vetenskap", "Studentprojekt"]
 ---
 
 # Att skriva stora och små tal
