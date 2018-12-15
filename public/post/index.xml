@@ -5,10 +5,25 @@
     <link>/post/</link>
     <description>Recent content in Posts on Loggen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Psykiatribloggar</title>
+      <link>/post/psychiatry-blogs/</link>
+      <pubDate>Sun, 16 Dec 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/psychiatry-blogs/</guid>
+      <description>true  Bloggar Carlat Psychiatry Blog är ganska inaktiv, men det kan finnas en del äldre material samt länkar av intresse?
+Mind Hacks skriver om forskningsprocessen med mera.
+Neurosceptic
+Shrink Rap är en blogg av och för psykiatriker.
+Real Psychiatry och tekniska noter om psykiatrisk behandling från samma författare.
+1 Boring Old Man är inaktiv (författaren avliden).
+Amazing World of Psychiatry verkar innehålla en del intressant om psykiatrihistoria, antropologi och psykiatrisk forskning.</description>
+    </item>
     
     <item>
       <title>Kuhn och Popper</title>
@@ -65,6 +80,17 @@ Counterfactuals och Potential outcomes Potential outcomes är exempelvis två m�
     </item>
     
     <item>
+      <title>Antidepressiva</title>
+      <link>/post/psychopharma_efficacy/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/psychopharma_efficacy/</guid>
+      <description>true  Riktlinjer 🔗 Canadian network for mood and anxiety treatments (CANMAT)
+🔗 Svenska psykiatriska föreningen (SPF), Nationella riktlinjer för vård vid depression och ångestsyndrom
+ Stor metaanalys om effekt av antidepressiva I en stor metaanalys fann man att antidepressiva hade viss effekt och att det möjligen kan vara skillnader i effekt mellan olika antidepressiva. Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis (Cipriani et al, Lancet 2018).</description>
+    </item>
+    
+    <item>
       <title>Astrobiologi</title>
       <link>/post/astrobiologi/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
@@ -92,20 +118,6 @@ Länk: http://www.astronomy.ohio-state.edu/~pogge/Ast141/
       
       <guid>/post/researchideas/</guid>
       <description>true  Datakällor Svensk nationell datatjänst Svensk nationell datatjänst är en nationell forskningsinfrastruktur som från och med 1 januari 2018 leds av ett konsortium bestående av Göteborgs universitet, Lunds universitet, Umeå universitet, Uppsala universitet, Sveriges lantbruksuniversitet, Stockholms universitet och Karolinska Institutet med Göteborgs universitet som värduniversitet. SND:s verksamhet finansieras i huvudsak av Vetenskapsrådet och av lärosätena i konsortiet. Till konsortiet är knutet ett nätverk som består av ytterligare 20 lärosäten.</description>
-    </item>
-    
-    <item>
-      <title>Fungerar psykofarmaka?</title>
-      <link>/post/psychopharma_efficacy/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/psychopharma_efficacy/</guid>
-      <description>true  Bloggar Blogg
- Reviderade resultat från kliniska prövningar BMJ Editorial: Liberating the data from clinical trials
-Prövning N Ursprungligt resultat:
-Reviderat resultat
-Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence
-  Stor metaanalys om effekt av antidepressiva I en stor metaanalys fann man att antidepressiva hade viss effekt och att det möjligen kan vara skillnader i effekt mellan olika antidepressiva.</description>
     </item>
     
     <item>
@@ -172,19 +184,6 @@ Länk till historiepodden
     </item>
     
     <item>
-      <title>Poddar om psykiatri och sånt</title>
-      <link>/post/podcasts_cognition/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/podcasts_cognition/</guid>
-      <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
-En populärvetenskaplig podd om Psykologi. Rekommenderas!
-Länk: https://www.npr.org/podcasts/510308/hidden-brain
-Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
- Psych Essentials Psych Essentials is an educational open access podcast dedicated to learning essential topics in psychiatry.</description>
-    </item>
-    
-    <item>
       <title>Poddar om vetenskap</title>
       <link>/post/sciencepods/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
@@ -196,6 +195,19 @@ Intressanta avsnitt:
  Building conscious machines
  Following 1000 people for decades to learn about the interplay of health, environment, and temperament
    </description>
+    </item>
+    
+    <item>
+      <title>Psykiatripoddar</title>
+      <link>/post/podcasts_cognition/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/podcasts_cognition/</guid>
+      <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
+En populärvetenskaplig podd om Psykologi. Rekommenderas!
+Länk: https://www.npr.org/podcasts/510308/hidden-brain
+Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
+ Psych Essentials Psych Essentials is an educational open access podcast dedicated to learning essential topics in psychiatry.</description>
     </item>
     
     <item>
@@ -283,7 +295,7 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
     </item>
     
     <item>
-      <title>Vetenskaplig världsbild: Skala</title>
+      <title>Skala</title>
       <link>/post/science_ontology_scale/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
@@ -293,7 +305,7 @@ En utgångspunkt för biologisk skala är den statistiska mekaniken. För att bi
     </item>
     
     <item>
-      <title>Vetenskaplig världsbild: Tid</title>
+      <title>Tid</title>
       <link>/post/science_ontology_time/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       

@@ -50,19 +50,6 @@ Länk till historiepodden
     </item>
     
     <item>
-      <title>Poddar om psykiatri och sånt</title>
-      <link>/post/podcasts_cognition/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/podcasts_cognition/</guid>
-      <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
-En populärvetenskaplig podd om Psykologi. Rekommenderas!
-Länk: https://www.npr.org/podcasts/510308/hidden-brain
-Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
- Psych Essentials Psych Essentials is an educational open access podcast dedicated to learning essential topics in psychiatry.</description>
-    </item>
-    
-    <item>
       <title>Poddar om vetenskap</title>
       <link>/post/sciencepods/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
@@ -74,6 +61,19 @@ Intressanta avsnitt:
  Building conscious machines
  Following 1000 people for decades to learn about the interplay of health, environment, and temperament
    </description>
+    </item>
+    
+    <item>
+      <title>Psykiatripoddar</title>
+      <link>/post/podcasts_cognition/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/podcasts_cognition/</guid>
+      <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
+En populärvetenskaplig podd om Psykologi. Rekommenderas!
+Länk: https://www.npr.org/podcasts/510308/hidden-brain
+Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
+ Psych Essentials Psych Essentials is an educational open access podcast dedicated to learning essential topics in psychiatry.</description>
     </item>
     
     <item>
@@ -118,7 +118,7 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
     </item>
     
     <item>
-      <title>Vetenskaplig världsbild: Tid</title>
+      <title>Tid</title>
       <link>/post/science_ontology_time/</link>
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       

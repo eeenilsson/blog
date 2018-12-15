@@ -1,5 +1,5 @@
 ---
-title: "Poddar om psykiatri och sånt"
+title: "Psykiatripoddar"
 author: "Erik Nilsson"
 date: 2018-02-16T21:13:14-05:00
 categories: ["Blänkare", "Resurs"]
@@ -37,6 +37,14 @@ LearnPsych är något mer djuplodande pod än Psych Essentials, med längre inte
 &#x1F517; [LearnPsych](http://www.learnpsychpodcast.com/)
 
 Rekommenderade episoder: Mental status exam (1-2), Biopsychosocial formulation (008), Drug seeking behaviours (019-020), borderline personality disorder (025).
+
+# A History of Delusions
+
+&#x1F517; [A History of Delusions](https://www.bbc.co.uk/programmes/p06tbbhz)
+
+Intervjuer med personer som upplevt vanföreställningar, i kombination med historiska utvikningar.
+
+Rekommenderade episoder: Long Shadows, Capgras (intressant ffa mot slutet av avsnittet). 
 
 # Oxford psychiatry podcast
 

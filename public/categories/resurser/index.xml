@@ -5,10 +5,25 @@
     <link>/categories/resurser/</link>
     <description>Recent content in Resurser on Loggen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/resurser/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Psykiatribloggar</title>
+      <link>/post/psychiatry-blogs/</link>
+      <pubDate>Sun, 16 Dec 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/psychiatry-blogs/</guid>
+      <description>true  Bloggar Carlat Psychiatry Blog är ganska inaktiv, men det kan finnas en del äldre material samt länkar av intresse?
+Mind Hacks skriver om forskningsprocessen med mera.
+Neurosceptic
+Shrink Rap är en blogg av och för psykiatriker.
+Real Psychiatry och tekniska noter om psykiatrisk behandling från samma författare.
+1 Boring Old Man är inaktiv (författaren avliden).
+Amazing World of Psychiatry verkar innehålla en del intressant om psykiatrihistoria, antropologi och psykiatrisk forskning.</description>
+    </item>
     
     <item>
       <title>Misc</title>
@@ -22,26 +37,23 @@ Twitter lists
     </item>
     
     <item>
+      <title>Antidepressiva</title>
+      <link>/post/psychopharma_efficacy/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/psychopharma_efficacy/</guid>
+      <description>true  Riktlinjer 🔗 Canadian network for mood and anxiety treatments (CANMAT)
+🔗 Svenska psykiatriska föreningen (SPF), Nationella riktlinjer för vård vid depression och ångestsyndrom
+ Stor metaanalys om effekt av antidepressiva I en stor metaanalys fann man att antidepressiva hade viss effekt och att det möjligen kan vara skillnader i effekt mellan olika antidepressiva. Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis (Cipriani et al, Lancet 2018).</description>
+    </item>
+    
+    <item>
       <title>Forskningsuppslag</title>
       <link>/post/researchideas/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
       <guid>/post/researchideas/</guid>
       <description>true  Datakällor Svensk nationell datatjänst Svensk nationell datatjänst är en nationell forskningsinfrastruktur som från och med 1 januari 2018 leds av ett konsortium bestående av Göteborgs universitet, Lunds universitet, Umeå universitet, Uppsala universitet, Sveriges lantbruksuniversitet, Stockholms universitet och Karolinska Institutet med Göteborgs universitet som värduniversitet. SND:s verksamhet finansieras i huvudsak av Vetenskapsrådet och av lärosätena i konsortiet. Till konsortiet är knutet ett nätverk som består av ytterligare 20 lärosäten.</description>
-    </item>
-    
-    <item>
-      <title>Fungerar psykofarmaka?</title>
-      <link>/post/psychopharma_efficacy/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/psychopharma_efficacy/</guid>
-      <description>true  Bloggar Blogg
- Reviderade resultat från kliniska prövningar BMJ Editorial: Liberating the data from clinical trials
-Prövning N Ursprungligt resultat:
-Reviderat resultat
-Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence
-  Stor metaanalys om effekt av antidepressiva I en stor metaanalys fann man att antidepressiva hade viss effekt och att det möjligen kan vara skillnader i effekt mellan olika antidepressiva.</description>
     </item>
     
     <item>

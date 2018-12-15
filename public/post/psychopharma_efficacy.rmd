@@ -1,30 +1,19 @@
 ---
-title: "Fungerar psykofarmaka?"
+title: "Antidepressiva"
 author: "Erik Nilsson"
 date: 2018-02-16T21:13:14-05:00
 categories: ["Resurser"]
 description: [Psykofarmakas effektivitet har diskuterats och ifrågasatts.]
 tags: ["Psykiatri"]
 toc: true
-draft: true
 
 ---
 
-# Bloggar
+# Riktlinjer
 
-Blogg
+&#x1F517; [Canadian network for mood and anxiety treatments (CANMAT)](http://canmat.org/)
 
-# Reviderade resultat från kliniska prövningar
-
-[BMJ Editorial: Liberating the data from clinical trials](http://www.bmj.com/content/351/bmj.h4601)
-
-### Prövning N
-
-_Ursprungligt resultat:_
-
-_Reviderat resultat_
-
-[Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence](http://www.bmj.com/content/351/bmj.h4320)
+&#x1F517; [Svenska psykiatriska föreningen (SPF), Nationella riktlinjer för vård vid depression och ångestsyndrom](http://www.svenskpsykiatri.se/dokument/remissvar/nationella-riktlinjer-for-vard-vid-depression-och-angestsyndrom/)
 
 # Stor metaanalys om effekt av antidepressiva
 
@@ -43,7 +32,27 @@ I en stor metaanalys fann man att antidepressiva hade viss effekt och att det m�
 
 Av detta framstår det som att agomelatine (Valdoxan&reg;), escitalopram och vortioxetine (Brintellix&reg;) var både mer effektiva än _vissa andra_ antidepressiva och mer tolerabla än _vissa andra_ antidepressiva. Man kan dock notera att ingen av dessa var statistiskt bättre än exempelvis sertralin även om agomegalin var mer tolerabelt än sertralin. En slutsats kan vara att escitalopram är ett rimligt förstahandsval. Clomipramine och trazodone förefaller ligga dåligt till i både effektivitet och tolerabilitet, men konfidensintervallen är stora så några säkra slutsatser om skillnader mellan antidepressiva kan inte dras.
 
-[Not: I läkemedelskomittens rekommendatoiner tas inte upp att fluoxetin troligen är det enda effektiva preparatet för barn & unga?]
+# Utsättningsbesvär
+
+&#x1F517; [Antidepressant withdrawal: reviewing the paper behind the headlines](https://www.nationalelfservice.net/treatment/antidepressants/antidepressant-withdrawal-reviewing-the-paper-behind-the-headlines/)
+
+Kritik av en studie om utsättningsbesvär.
+
+<!-- [Not: I läkemedelskomittens rekommendatoiner tas inte upp att fluoxetin troligen är det enda effektiva preparatet för barn & unga?] -->
+
+
+<!-- # Reviderade resultat från kliniska prövningar -->
+
+<!-- [BMJ Editorial: Liberating the data from clinical trials](http://www.bmj.com/content/351/bmj.h4601) -->
+
+<!-- ### Prövning N -->
+
+<!-- _Ursprungligt resultat:_ -->
+
+<!-- _Reviderat resultat_ -->
+
+<!-- [Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence](http://www.bmj.com/content/351/bmj.h4320) -->
+
 
 # Övrigt
 

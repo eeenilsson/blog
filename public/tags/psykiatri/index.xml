@@ -5,10 +5,36 @@
     <link>/tags/psykiatri/</link>
     <description>Recent content in Psykiatri on Loggen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 16 Feb 2018 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/tags/psykiatri/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Psykiatribloggar</title>
+      <link>/post/psychiatry-blogs/</link>
+      <pubDate>Sun, 16 Dec 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/psychiatry-blogs/</guid>
+      <description>true  Bloggar Carlat Psychiatry Blog är ganska inaktiv, men det kan finnas en del äldre material samt länkar av intresse?
+Mind Hacks skriver om forskningsprocessen med mera.
+Neurosceptic
+Shrink Rap är en blogg av och för psykiatriker.
+Real Psychiatry och tekniska noter om psykiatrisk behandling från samma författare.
+1 Boring Old Man är inaktiv (författaren avliden).
+Amazing World of Psychiatry verkar innehålla en del intressant om psykiatrihistoria, antropologi och psykiatrisk forskning.</description>
+    </item>
+    
+    <item>
+      <title>Antidepressiva</title>
+      <link>/post/psychopharma_efficacy/</link>
+      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/psychopharma_efficacy/</guid>
+      <description>true  Riktlinjer 🔗 Canadian network for mood and anxiety treatments (CANMAT)
+🔗 Svenska psykiatriska föreningen (SPF), Nationella riktlinjer för vård vid depression och ångestsyndrom
+ Stor metaanalys om effekt av antidepressiva I en stor metaanalys fann man att antidepressiva hade viss effekt och att det möjligen kan vara skillnader i effekt mellan olika antidepressiva. Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: a systematic review and network meta-analysis (Cipriani et al, Lancet 2018).</description>
+    </item>
     
     <item>
       <title>Brain Waves</title>
@@ -18,20 +44,6 @@
       <guid>/post/brainwaves/</guid>
       <description>Brain Waves En artikel i nature om “hjärnvågor” och deras eventuella betydelse. Nämner bla forskning av Li-Huei Tsai som använt ljus för att påverka amylodia plack, och funnit viss påverkan på mikroglia av behandlingen.
  The oscillations also provide a potential mechanism for how the brain creates a coherent experience from the chaotic symphony of stimuli hitting the senses at any one time, a puzzle known as the ‘binding problem’. By synchronizing the firing rates of neurons responding to the same event, brainwaves might ensure that the all of the relevant information relating to one object arrives at the correct area of the brain at exactly the right time.</description>
-    </item>
-    
-    <item>
-      <title>Fungerar psykofarmaka?</title>
-      <link>/post/psychopharma_efficacy/</link>
-      <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/post/psychopharma_efficacy/</guid>
-      <description>true  Bloggar Blogg
- Reviderade resultat från kliniska prövningar BMJ Editorial: Liberating the data from clinical trials
-Prövning N Ursprungligt resultat:
-Reviderat resultat
-Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence
-  Stor metaanalys om effekt av antidepressiva I en stor metaanalys fann man att antidepressiva hade viss effekt och att det möjligen kan vara skillnader i effekt mellan olika antidepressiva.</description>
     </item>
     
     <item>
@@ -70,7 +82,7 @@ British neuroscience organization
     </item>
     
     <item>
-      <title>Poddar om psykiatri och sånt</title>
+      <title>Psykiatripoddar</title>
       <link>/post/podcasts_cognition/</link>
       <pubDate>Fri, 16 Feb 2018 21:13:14 -0500</pubDate>
       
