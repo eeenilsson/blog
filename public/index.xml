@@ -26,6 +26,21 @@ Amazing World of Psychiatry verkar innehålla en del intressant om psykiatrihist
     </item>
     
     <item>
+      <title>Grundläggande statistik för läkarstudenter</title>
+      <link>/post/statistics-basics/</link>
+      <pubDate>Mon, 17 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/statistics-basics/</guid>
+      <description>För läkarstudenter som skriver C eller D-uppsats.
+Läs på om begreppen som är listade under “deskriptiv statistik” och “hypotestestning” nedan.
+🔗 Här kan du slå upp beskrivningar av grundläggande statistiska termer
+Deskriptiv statistik Läs gärna på om följande begrepp:
+ Medelvärde Standardavvikelse Median Inter quartile range (IQR) Normalfördelning Typer av variabler: Kontinuerlig, kategorisk, nominal, ordinal.  🔗 Medelvärde och median
+Bild: Normalfördelning. Källa: Wikipedia.
+Hypotestestning Läs gärna på om följande begrepp:</description>
+    </item>
+    
+    <item>
       <title>Kuhn och Popper</title>
       <link>/post/kuhn_popper/</link>
       <pubDate>Tue, 17 Jul 2018 00:00:00 +0000</pubDate>
