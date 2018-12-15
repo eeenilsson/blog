@@ -1,7 +1,7 @@
 ---
 title: "Grundläggande statistik för läkarstudenter"
 author: "eriknilsson"
-date: 2018-12-17
+date: 2018-12-15
 categories: ["Artikel"]
 tags: ["Studentprojekt", "Vetenskap"]
 ---
