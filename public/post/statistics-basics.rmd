@@ -1,0 +1,131 @@
+---
+title: "Grundläggande statistik för läkarstudenter"
+author: "eriknilsson"
+date: 2018-12-17
+categories: ["Artikel"]
+tags: ["Studentprojekt", "Vetenskap"]
+---
+
+För läkarstudenter som skriver C eller D-uppsats.
+
+Läs på om begreppen som är listade under "deskriptiv statistik" och "hypotestestning" nedan.
+
+&#x1F517; [Här kan du slå upp beskrivningar av grundläggande statistiska termer](http://www.graphpad.com/guides/prism/6/statistics/index.htm?stat_standard_deviation_and_standar.htm)
+
+# Deskriptiv statistik
+
+_Läs gärna på om följande begrepp:_
+
+- Medelvärde
+- Standardavvikelse
+- Median
+- Inter quartile range (IQR)
+- Normalfördelning
+- Typer av variabler: Kontinuerlig, kategorisk, nominal, ordinal.
+
+&#x1F517; [Medelvärde och median](https://www.youtube.com/watch?v=JFesFhraX2M)
+
+![](/media/normal-distribution.png)
+
+**Bild:** Normalfördelning. Källa: [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution).
+
+## Hypotestestning
+
+_Läs gärna på om följande begrepp:_
+
+- T-test
+- Chi-2-test
+- P-värde
+- Power
+- Typ I fel
+- Typ II fel
+
+# Figurer
+
+## Box-and-Whisker Plot
+
+Aka "Boxplot". Kanske något för din uppsats?
+
+![](/media/boxplot.gif)
+
+**Bild:** Boxplot. Källa: [Flowingdata](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/).
+
+&#x1F517; [Om boxplot ](http://amsi.org.au/teacher_modules/Data_investigation_year_10.html#Quartiles_and_boxplots)
+
+&#x1F517; [How to read a boxplot ](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
+
+# Studiedesign
+
+Beskrivningar av olika typer av studiedesign:
+
+&#x1F517; [Glossary of study designs](https://www.nice.org.uk/article/pmg4/chapter/appendix-d-glossary-of-study-designs#before-and-after-ba-studies)
+
+&#x1F517; [Non-randomised controlled study (NRS) designs](http://childhoodcancer.cochrane.org/non-randomised-controlled-study-nrs-designs)
+
+# Programvara för statistik
+
+&#x1F517; [Using excel for statistics](http://www.real-statistics.com/)
+
+&#x1F517; [R](https://www.r-project.org/) rekommenderas om du gillar programmering.
+
+# Övrigt
+
+&#x1F517; [Fallgropar i den vetenskapliga processen](http://www.economist.com/news/briefing/21588057-scientists-think-science-self-correcting-alarming-degree-it-not-trouble)
+
+&#x1F517; [Open data](http://www.icsu.org/science-international/accord)
+
+# Fördjupning
+
+## Youtube clips om statistik 
+
+Av Kimmo Sorjonen, KI. SPSS används.
+
+&#x1F517; [SPSS, ANOVA, Del A, Envägs](https://www.youtube.com/watch?v=Z1SP6-3ky2Y)
+
+&#x1F517; [SPSS, ANOVA, Del B, Multivariat](https://www.youtube.com/watch?v=SdlcqEGNTMU)
+
+&#x1F517; [SPSS, ANOVA, Del C, Upprepade mätningar](https://www.youtube.com/watch?v=_LiqKSc4kJ8)
+
+&#x1F517; [SPSS, ANOVA, Del D, Multivariat med upprepade mätningar](https://www.youtube.com/watch?v=k-xIyhfVdbM)
+
+&#x1F517; [SPSS, ANOVA, Del E, Kovariansanalys](https://www.youtube.com/watch?v=6IofcgsTSmI)
+
+&#x1F517; [SPSS, Regression, Del A, Multipel](https://www.youtube.com/watch?v=5LTQRdZQgdI)
+
+&#x1F517; [SPSS, Regression, Del B, Kurvlinjärt](https://www.youtube.com/watch?v=P0bHAd2f4Pc)
+
+&#x1F517; [SPSS, Regression, Del C, Interaktion](https://www.youtube.com/watch?v=gzwJmgRwP78)
+
+&#x1F517; [SPSS, Regression, Del D, Logistisk](https://www.youtube.com/watch?v=kuKZHtrdcGw)
+
+&#x1F517; [SPSS, Risk- och Odds-kvoter](https://www.youtube.com/watch?v=1qhk4SsEuac)
+
+&#x1F517; [SPSS, Faktoranalys, Del A](https://www.youtube.com/watch?v=KMNXXxqF8mY)
+
+&#x1F517; [SPSS, Faktoranalys, Del B](https://www.youtube.com/watch?v=fNCohP9dHlc)
+
+&#x1F517; [SPSS, Faktoranalys, Del C](https://www.youtube.com/watch?v=nBlJ3LyF_Po)
+
+&#x1F517; [SPSS, Faktoranalys, Del D](https://www.youtube.com/watch?v=r8UJnzowu1A)
+
+&#x1F517; [SEM med AMOS, Del A, Speca modell](https://www.youtube.com/watch?v=u9y3Jm4HSIY)
+
+&#x1F517; [SEM med AMOS, Del B, Parametrar](http://www.youtube.com/watch?v=G8uPc6ZhsWw)
+
+&#x1F517; [SEM med AMOS, Del C, Model fit och modifiering](http://www.youtube.com/watch?v=udB_-KsdR6E)
+
+&#x1F517; [SEM med AMOS, Del D, Effekter](http://www.youtube.com/watch?v=4xnsJoRKN_0)
+
+&#x1F517; [SPSS, MLM (LMM), Del A, Tvärsnitt, Fixed effect](http://www.youtube.com/watch?v=Twj5NfneOCY)
+
+&#x1F517; [SPSS, MLM (LMM), Del B, Tvärsnitt, Random effect + Interaktion](http://www.youtube.com/watch?v=kCN1m5k1RKs)
+
+&#x1F517; [SPSS, MLM (LMM), Del C, Tvärsnitt, Kategoripresiktorer + Trevägs interaktion](http://www.youtube.com/watch?v=j8edoSdu9JI)
+
+&#x1F517; [SPSS, MLM (LMM), Del D, Upprepade, Restructure](http://www.youtube.com/watch?v=NDJfZnioJZU)
+
+&#x1F517; [SPSS, MLM (LMM), Del E, Upprepade, Random effect](http://www.youtube.com/watch?v=3bGiGz-50qY)
+
+&#x1F517; [SPSS, MLM (LMM), Del F, Upprepade, Tvåvägs interaktion](http://www.youtube.com/watch?v=dRFy20HD__w)
+
+&#x1F517; [SPSS, MLM (LMM), Del G, Upprepade, Trevägs interaktion](http://www.youtube.com/watch?v=fExWt70Dufo)
