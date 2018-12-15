@@ -53,11 +53,10 @@ Kritik av en studie om utsättningsbesvär.
 <!-- [Reviderad analys: Restoring Study 329: efficacy and harms of paroxetine and imipramine in treatment of major depression in adolescence](http://www.bmj.com/content/351/bmj.h4320) -->
 
 
-# Övrigt
+<!-- # Övrigt -->
 
-[All Trials Registered, All Results Reported](http://www.alltrials.net/) är ett initiativ från Ben Goldacre, BMJ, Centre for Evidence-based Medicine, Cochrane Collaboration, James Lind Initiative, PLOS and Sense about Science and is being led in the US by Sense About Science USA, Dartmouth’s Geisel School of Medicine and the Dartmouth Institute for Health Policy & Clinical Practice.
+<!-- [All Trials Registered, All Results Reported](http://www.alltrials.net/) är ett initiativ från Ben Goldacre, BMJ, Centre for Evidence-based Medicine, Cochrane Collaboration, James Lind Initiative, PLOS and Sense about Science and is being led in the US by Sense About Science USA, Dartmouth’s Geisel School of Medicine and the Dartmouth Institute for Health Policy & Clinical Practice. -->
 
+<!-- <http://firmfound.org/> -->
 
-<http://firmfound.org/>
-
-[Lown Institute](https://lowninstitute.org/)
+<!-- [Lown Institute](https://lowninstitute.org/) -->

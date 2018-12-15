@@ -6,7 +6,6 @@ categories: ["Resurser"]
 description: [Länkar till psykiatriresurser.]
 tags: ["Podcast", "Nöje", "Psykiatri", "Kurser"]
 draft: true
-toc: true
 
 ---
 

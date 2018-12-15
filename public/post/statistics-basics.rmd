@@ -29,7 +29,7 @@ _Läs gärna på om följande begrepp:_
 
 **Bild:** Normalfördelning. Källa: [Wikipedia](https://en.wikipedia.org/wiki/Normal_distribution).
 
-## Hypotestestning
+# Hypotestestning
 
 _Läs gärna på om följande begrepp:_
 
@@ -40,9 +40,17 @@ _Läs gärna på om följande begrepp:_
 - Typ I fel
 - Typ II fel
 
+# Studiedesign
+
+Beskrivningar av olika typer av studiedesign:
+
+&#x1F517; [Glossary of study designs](https://www.nice.org.uk/article/pmg4/chapter/appendix-d-glossary-of-study-designs#before-and-after-ba-studies)
+
+&#x1F517; [Non-randomised controlled study (NRS) designs](http://childhoodcancer.cochrane.org/non-randomised-controlled-study-nrs-designs)
+
 # Figurer
 
-## Box-and-Whisker Plot
+### Box-and-Whisker Plot
 
 Aka "Boxplot". Kanske något för din uppsats?
 
@@ -54,19 +62,28 @@ Aka "Boxplot". Kanske något för din uppsats?
 
 &#x1F517; [How to read a boxplot ](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
 
-# Studiedesign
+# Att skriva uppsatsen
 
-Beskrivningar av olika typer av studiedesign:
+### STROBE - mall för rapportering
 
-&#x1F517; [Glossary of study designs](https://www.nice.org.uk/article/pmg4/chapter/appendix-d-glossary-of-study-designs#before-and-after-ba-studies)
+STROBE är riktlinjer för hur observationsstudier bör rapporteras.
 
-&#x1F517; [Non-randomised controlled study (NRS) designs](http://childhoodcancer.cochrane.org/non-randomised-controlled-study-nrs-designs)
+Det är i allmänhet en god idé att gå igenom STROBE-checklistan för ditt arbete. Skriv svar på punkterna i cheklistan så har du en bra grund för din uppsats.
 
-# Programvara för statistik
+&#x1F517; [STROBE webpage](https://www.strobe-statement.org/index.php?id=strobe-home)
 
-&#x1F517; [Using excel for statistics](http://www.real-statistics.com/)
+&#x1F517; [STROBE checklists](https://www.strobe-statement.org/index.php?id=available-checklists)
 
-&#x1F517; [R](https://www.r-project.org/) rekommenderas om du gillar programmering.
+Välj den checklista som passar din studiedesign.
+
+&#x1F517; [STROBE checklista för kohortstudier](https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_cohort.doc)
+
+### Tips om vetenskapligt skrivande
+
+[PDF med tips om skriva vetenskap](/media/writing_a_paper.pdf)
+
+&#x1F517; [APA style](https://www.apastyle.org/) ger riktlinjer om hur detaljer i vetenskapliga publikationer kan utformas, exemplevis tabellformattering. APA-manualen kan finnas på biblioteket?
+
 
 # Övrigt
 
@@ -74,9 +91,16 @@ Beskrivningar av olika typer av studiedesign:
 
 &#x1F517; [Open data](http://www.icsu.org/science-international/accord)
 
+### Programvara för statistik
+
+&#x1F517; [Using excel for statistics](http://www.real-statistics.com/)
+
+&#x1F517; [R](https://www.r-project.org/) rekommenderas om du gillar programmering.
+
+
 # Fördjupning
 
-## Youtube clips om statistik 
+### Youtube clips om statistik 
 
 Av Kimmo Sorjonen, KI. SPSS används.
 
@@ -129,3 +153,9 @@ Av Kimmo Sorjonen, KI. SPSS används.
 &#x1F517; [SPSS, MLM (LMM), Del F, Upprepade, Tvåvägs interaktion](http://www.youtube.com/watch?v=dRFy20HD__w)
 
 &#x1F517; [SPSS, MLM (LMM), Del G, Upprepade, Trevägs interaktion](http://www.youtube.com/watch?v=fExWt70Dufo)
+
+## Mall för rapportering av randomiserade kontrollerade studier: CONSORT
+
+&#x1F517; [CONSORT webpage](http://www.consort-statement.org/)
+
+[Consort checklist](http://www.consort-statement.org/download/Media/Default/Downloads/CONSORT%202010%20Checklist.doc)
