@@ -8,7 +8,7 @@ tags: ["Studentprojekt", "Vetenskap"]
 
 För läkarstudenter som skriver C eller D-uppsats.
 
-Läs på om begreppen som är listade under "deskriptiv statistik" och "hypotestestning" nedan.
+Du bör kunna förklara begreppen som är listade under "deskriptiv statistik" och "hypotestestning" nedan.
 
 &#x1F517; [Här kan du slå upp beskrivningar av grundläggande statistiska termer](http://www.graphpad.com/guides/prism/6/statistics/index.htm?stat_standard_deviation_and_standar.htm)
 
