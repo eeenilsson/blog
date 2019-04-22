@@ -12,7 +12,7 @@ Du bör kunna förklara begreppen som är listade under "deskriptiv statistik" o
 
 &#x1F517; [Här kan du slå upp beskrivningar av grundläggande statistiska termer](http://www.graphpad.com/guides/prism/6/statistics/index.htm?stat_standard_deviation_and_standar.htm)
 
-Se även "Att skriva uppsats" under taggen "Vetenskap".
+Se även inlägget ["att skriva uppsats"](/tags/vetenskap).
 
 # Deskriptiv statistik
 

@@ -50,10 +50,10 @@ Välj den checklista som passar din studiedesign.
       <description>För läkarstudenter som skriver C eller D-uppsats.
 Du bör kunna förklara begreppen som är listade under “deskriptiv statistik” och “hypotestestning” nedan.
 🔗 Här kan du slå upp beskrivningar av grundläggande statistiska termer
-Se även “Att skriva uppsats” under taggen “Vetenskap”.
+Se även inlägget “att skriva uppsats”.
 Deskriptiv statistik Läs gärna på om följande begrepp:
  Medelvärde Standardavvikelse Median Inter quartile range (IQR) Normalfördelning Typer av variabler: Kontinuerlig, kategorisk, nominal, ordinal.  🔗 Medelvärde och median
-Bild: Normalfördelning.</description>
+Bild: Normalfördelning. Källa: Wikipedia.</description>
     </item>
     
     <item>
@@ -256,9 +256,10 @@ Intressanta avsnitt:
       <guid>/post/podcasts_cognition/</guid>
       <description>Hidden brain Hidden Brain’s host Shankar Vedantam reveals the unconscious patterns that drive human behavior, the biases that shape our choices, and the triggers that direct the course of our relationships.
 En populärvetenskaplig podd om Psykologi. Rekommenderas!
-Länk: https://www.npr.org/podcasts/510308/hidden-brain
+🔗 Hidden Brain
 Rekommenderade episoder: I’m Right, You’re Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
- Psych Essentials Psych Essentials is an educational open access podcast dedicated to learning essential topics in psychiatry.</description>
+ A History of Delusions 🔗 A History of Delusions
+Intervjuer med personer som upplevt vanföreställningar, i kombination med historiska utvikningar.</description>
     </item>
     
     <item>
@@ -352,7 +353,8 @@ Litteratur och andra resurser  Erwing Shrödingers bok What is Life? https://en.
       
       <guid>/post/science_ontology_scale/</guid>
       <description>Statististisk termodynamik och betydelsen av N Eller, Schrödinger utan katten.
-En utgångspunkt för biologisk skala är den statistiska mekaniken. För att biologiska system skall fungera måste dess funktioner bestå av interaktioner mellan en tillräcklig mängd små partiklar (atomer, molekyler) för att deras interaktioner skall uppnå en tillräckligt hög precision eller tillförlitlighet. Ifall dessa interaktioner skulle ske mellan en mindre mängd partiklar skulle exempelvis termiska rörelser medföra stora fluktuationer i utfallet.</description>
+En utgångspunkt för biologisk skala är den statistiska mekaniken. För att biologiska system skall fungera med precision måste deras funktioner bestå av interaktioner mellan en tillräcklig mängd små partiklar (atomer, molekyler).  Perspektiv på storlek I denna interaktiva animation kan du klicka dig fram för att jämföra skalan mellan olika objekt.
+Screenshot från animationen “Scale of the Universe” av Cary Huang.</description>
     </item>
     
     <item>

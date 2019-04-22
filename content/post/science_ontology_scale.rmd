@@ -10,7 +10,7 @@ tags: ["Ontologi", "Vetenskap"]
 
 _Eller, Schrödinger utan katten._
 
-En utgångspunkt för biologisk skala är den [statistiska mekaniken](/media/stat_TD.pdf). För att biologiska system skall fungera måste dess funktioner bestå av interaktioner mellan en tillräcklig mängd små partiklar (atomer, molekyler) för att deras interaktioner skall uppnå en tillräckligt hög precision eller tillförlitlighet. Ifall dessa interaktioner skulle ske mellan en mindre mängd partiklar skulle exempelvis termiska rörelser medföra stora fluktuationer i utfallet.
+En utgångspunkt för biologisk skala är den [statistiska mekaniken](/media/stat_TD.pdf). För att biologiska system skall fungera med precision måste deras funktioner bestå av interaktioner mellan en tillräcklig mängd små partiklar (atomer, molekyler). <!-- Ifall dessa interaktioner skulle ske mellan en mindre mängd partiklar skulle exempelvis termiska rörelser medföra stora fluktuationer i utfallet. -->
 
 # Perspektiv på storlek
 

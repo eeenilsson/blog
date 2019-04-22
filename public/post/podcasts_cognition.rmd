@@ -12,9 +12,17 @@ _Hidden Brain's host Shankar Vedantam reveals the unconscious patterns that driv
 
 En populärvetenskaplig podd om Psykologi. Rekommenderas!
 
-Länk: <https://www.npr.org/podcasts/510308/hidden-brain>
+&#x1F517; [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
 
 Rekommenderade episoder: I'm Right, You're Wrong, Radio Replay: Loving the Lie . Radio Replay: Crime As A Disease.
+
+# A History of Delusions
+
+&#x1F517; [A History of Delusions](https://www.bbc.co.uk/programmes/p06tbbhz)
+
+Intervjuer med personer som upplevt vanföreställningar, i kombination med historiska utvikningar.
+
+Rekommenderade episoder: Long Shadows, Capgras (intressant ffa mot slutet av avsnittet). 
 
 # Psych Essentials
 
@@ -38,19 +46,21 @@ LearnPsych är något mer djuplodande pod än Psych Essentials, med längre inte
 
 Rekommenderade episoder: Mental status exam (1-2), Biopsychosocial formulation (008), Drug seeking behaviours (019-020), borderline personality disorder (025).
 
-# A History of Delusions
+# PsychEd
 
-&#x1F517; [A History of Delusions](https://www.bbc.co.uk/programmes/p06tbbhz)
+_The psychiatry podcast for medical learners, by medical learners._
 
-Intervjuer med personer som upplevt vanföreställningar, i kombination med historiska utvikningar.
+&#x1F517; [PsychEd](https://www.psychedpodcast.org/)
 
-Rekommenderade episoder: Long Shadows, Capgras (intressant ffa mot slutet av avsnittet). 
+Rekommenderade episoder: Diagnosis of depression (1), Treatment of depression (2), Diagnosing and treating obsessive-compulsive disorder (8), treatment of schizophrenia (9).
 
 # Oxford psychiatry podcast
 
 _These podcasts provide an introduction to core topics in psychiatry, and to research undertaken in the Oxford University Department of Psychiatry._
 
-Länk: <https://podcasts.ox.ac.uk/series/psychiatry>
+Kanske ingen hit, men vissa episoder är intressanta.
+
+&#x1F517; [Oxford psychiatry podcast](https://podcasts.ox.ac.uk/series/psychiatry)
 
 Rekommenderade episoder: Creating the evidence base for prescribing in psychiatry, Psychological mechanisms of antidepressants.
 
@@ -62,4 +72,4 @@ Rekommenderade episoder: Creating the evidence base for prescribing in psychiatr
 
 - Philosophy Bites, "Anil Seth on the Real Problem of Consciousness": <http://philosophybites.com/2017/07/anil-seth-on-the-real-problem-of-consciousness.html>
 
-- Ej provat: [Mad in America](https://www.madinamerica.com/)
+<!-- - Ej provat: [Mad in America](https://www.madinamerica.com/) -->
