@@ -152,7 +152,7 @@ When submitting a paper, check the journal's Instructions for Authors to see if 
 5. Draw a conclusion - convince!
 6. Discuss possible consequences of your observations (in research or clinical practice).
 
-## Att arbeta med versionshantering och dropbox
+# Att arbeta med versionshantering och dropbox
 
 Använd "spåra ändringar" och ha med datum i filnamnet. Bra att lära sig för framtida forskningssamarbeten.
 
