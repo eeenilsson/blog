@@ -5,7 +5,7 @@
     <link>/post/</link>
     <description>Recent content in Posts on Loggen</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,7 +13,7 @@
     <item>
       <title>Tvångssyndrom</title>
       <link>/post/ocd/</link>
-      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/ocd/</guid>
       <description>Behandlingsmanualer Bok, Fri från tvång: Steg för steg med kognitiv beteendeterapi, av Mia Asplund, Elin-Love Rosengren. En behandlingsmanual som är utformad som ett självhjälpsprogram.
@@ -30,9 +30,21 @@ Avsnittet berättar om Megan, som fått behandling med djup hjärnstimulering mo
       <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/post/writin-science-guide/</guid>
-      <description>Style Present and past tense Misc Grammar Choosing words Sentences Efficient language Some more tips  Connections Prepositions Numbers in text  Content Introduction Outline  Material &amp;amp; methods Outline  Results Outline  Discussion  Att arbeta med versionshantering och dropbox   För läkarstudenter som skriver C eller D-uppsats.
+      <description>Style Present and past tense Misc Grammar Choosing words Sentences Efficient language Some more tips  Connections Prepositions Numbers in text  Content Introduction Outline  Material &amp;amp; methods Outline  Results Outline  Discussion    För läkarstudenter som skriver C eller D-uppsats.
 Se även inlägget “att skriva uppsats”.
-Style Present and past tense  Method: Past tense (describes what you did).</description>
+Style Present and past tense  Method: Past tense (describes what you did). Results: Past tense. Eg “Nitric oxide caused…” Anywhere where earlier data is referenced (into, discussion etc) use past tense.</description>
+    </item>
+    
+    <item>
+      <title>Versionshantering och dropbox</title>
+      <link>/post/versionshantering/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/versionshantering/</guid>
+      <description>För läkarstudenter som skriver C eller D-uppsats.
+Se även inlägget “att skriva uppsats”.
+Använd “spåra ändringar” och ha med datum i filnamnet. Bra att lära sig för framtida forskningssamarbeten.
+Gör såhär Du skickar ditt första utkast till handledaren. Aktivera gärna “spåra ändringar” i dokumentet innan du skickar in. Spara på dropbox och ange filnamn med initialer (här “AG”) och datum, tex: antidepressiva_duppsats_AG190101. Skicka ett mail och meddela handledaren att en ny version finns på dropbox.</description>
     </item>
     
     <item>
