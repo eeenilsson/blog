@@ -8,9 +8,9 @@ tags: ["Studentprojekt", "Vetenskap"]
 
 För läkarstudenter som skriver C eller D-uppsats.
 
-Se även ["Guide till stil, struktur och innehåll i uppsatsens delar"](/post/writin-science-guide).
+Se ["Guide till stil, struktur och innehåll i uppsatsens delar"](/post/writin-science-guide).
 
-Se även "Grundläggande statistik" under taggen "Studentprojekt".
+Se även övrigt under taggen "Studentprojekt".
 
 # STROBE - mall för rapportering
 
@@ -28,7 +28,7 @@ Välj den checklista som passar din studiedesign.
 
 # Stildetaljer
 
-&#x1F517; [PDF med tips om skriva vetenskap](/media/writing_a_paper.pdf)
+["Guide till stil, struktur och innehåll i uppsatsens delar"](/post/writin-science-guide)
 
 &#x1F517; [APA style](https://www.apastyle.org/) ger riktlinjer om hur detaljer i vetenskapliga publikationer kan utformas, exemplevis tabellformattering. APA-manualen kan finnas på biblioteket?
 
@@ -50,11 +50,15 @@ Aka "Boxplot". Kanske något för din uppsats?
 
 &#x1F517; [How to read a boxplot ](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
 
+### Annat
+
+[Stapeldiagram](https://www2.le.ac.uk/offices/ld/resources/numerical-data/bar-charts) kan vara ett alternativ för att jämföra grupper eller beskriva tex förekomst av olika sjukdomar eller läkemedel i studiegruppen.
+
+Om du har grupper som tillsammans blir exakt 100% kan ett [cirkeldiagram](https://www.mathsisfun.com/data/pie-charts.html) användas.
+
 # Tabeller
 
 &#x1F517; [Riktlinjer för utformning av tabeller](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/apa_tables_and_figures_1.html)
-
-
 
 
 <!-- ## Mall för rapportering av randomiserade kontrollerade studier: CONSORT -->
