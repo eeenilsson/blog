@@ -82,7 +82,8 @@ Se även inlägget ["att skriva uppsats"](/tags/vetenskap).
 
 ## Numbers in text
 
-When submitting a paper, check the journal's Instructions for Authors to see if they have any specific rules about numbers.Some of the most common rules are
+When submitting a paper, check the journal's Instructions for Authors to see if they have any specific rules about numbers. Some of the most common rules are:
+
 - Spell out numbers up to 10 (or 12).
 - Spell out numbers that contain a maximum of two syllables
 - Spell out numbers that can be written as no more than two words.

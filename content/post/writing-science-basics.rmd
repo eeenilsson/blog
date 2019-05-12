@@ -8,7 +8,9 @@ tags: ["Studentprojekt", "Vetenskap"]
 
 För läkarstudenter som skriver C eller D-uppsats.
 
-Se även "Grundläggande statistik" under taggen "Vetenskap".
+Se även ["Guide till stil, struktur och innehåll i uppsatsens delar"](/post/writin-science-guide).
+
+Se även "Grundläggande statistik" under taggen "Studentprojekt".
 
 # STROBE - mall för rapportering
 
