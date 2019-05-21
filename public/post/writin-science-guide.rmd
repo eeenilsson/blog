@@ -131,9 +131,17 @@ When submitting a paper, check the journal's Instructions for Authors to see if 
 - Present the evidence.
 - Validate the evidence (statistics)
 - Show results that relate to the formal argument, avoid excess/irrelevant information.
-- Show results only once. Values in tables & figures should #not# be repeated in the text.
-  - Describe a figure in more general terms in the text (emphasize result).
-  - Exception: A very important finding.
+- Show results only once. Values in tables & figures should #not# be repeated in the text. Exception: A very important finding.
+- Describe a figure in more general terms in the text (emphasize result).
+
+> Beskriv resultaten i ord och hänvisa till tabeller och figurer. Peka på intressanta resultat, särskilt sådana som du sedan belyser i diskussionsdelen. Upprepa dock inte siffror från tabeller och figurer. Alla tabeller och figurer bör hänvisas till från texten (**Table 1**).
+
+```{r table-one-example, echo = FALSE, message = FALSE}
+require(knitr)
+dta <- read.csv('../media/table1_example.csv')
+kable(dta, caption = "Baseline characteristics")
+
+```
 
 ### Outline
 
@@ -145,12 +153,19 @@ When submitting a paper, check the journal's Instructions for Authors to see if 
 - Discuss implications, Evaluate supportive and conflicting evidence, Draw conclusions.
 - Common problems: Lack of clear line of thoght. Unbalanced treatments of others results. Too much or too little speculation. Boringness.
 
+### Outline
+
 1. Begin with summmarizing the major novel findings in one paragraph. "The major, novel findings in the present investigation are the following..."
 2. Discuss possible underlying mechanisms for the observed assocaiations.
 3. Comparison against what others have reported. "In line with what NN reported...". If discrepancies, compare methods used, even small details. Or "at present, these discrepancies cannot be explained".
 4. Consider possible limitations and strengths. Risk for bias? Small N? Ambigous protocol? Ioannidis, Journal of clinical epidmiology, 2007.
 5. Draw a conclusion - convince!
 6. Discuss possible consequences of your observations (in research or clinical practice).
+
+> Tips: En viss studiedesign är förknippad med vissa typer av problem och begränsningar. Kolla upp vanliga felkällor för den studiedesign du använder (tex kohortstudie). Benämn dessa och beskriv vad (om något) som gjordes i din studie för att minimera effekterna av sådan bias. Deta görs vanligen i avsnittet om "limitations". Exempelvis finns i observationsstudier ofta "confounding by indication", och "residual confounding from measured and unmeasured factors". Andra typer av bias som kan benämnas är tex "selection bias" och "detection bias". Diskutera även extern validitet.
+
+> Tips: När du jämför med tidigare forskning kan du beskriva skillnader och likheter mellan din egen och annan studie exempelvis avseende datakällor (tex register vs journaler), studiepopulationens storlek och sammansättning (skillnader i ålder, kön, sjukdomar), mätmetod för utfallsvariabler (diagnoser vs laboratorieanlyser), hantering av bortfall och bias, uppföljningstidens längd. Du kan spekulera om eventuella olikheter i resultat kan bero på dessa skillnader.
+
 
 ## Abstract
 
@@ -172,3 +187,12 @@ Kan med fördel skrivas sist. Det är vanligt att abstract innehåller en samman
   + Perspektiv/potentiell nytta/ klinisk relevans.
 
 [An effective abstract](https://www.nature.com/scitable/content/an-effective-abstract-14194316)
+
+# Litteratursök
+
+```{r table-pico, echo = FALSE, message = FALSE}
+require(knitr)
+dta <- read.csv('../media/pico.csv')
+kable(dta, caption = "PICO")
+
+```
