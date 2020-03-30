@@ -8,23 +8,13 @@ tags: ["Studentprojekt", "Vetenskap"]
 
 För läkarstudenter som skriver C eller D-uppsats.
 
-Se ["Guide till stil, struktur och innehåll i uppsatsens delar"](/post/writin-science-guide).
+Se även ["Guide till litteratursökning"](/post/writing-science-litterature-search).
+
+Se även ["Guide till innehåll i uppsatsens delar"](/post/writing-science-content).
+
+Se även ["Guide till stil och struktur i uppsatsens delar"](/post/writin-science-guide).
 
 Se även övrigt under taggen "Studentprojekt".
-
-# STROBE - mall för rapportering
-
-STROBE är riktlinjer för hur observationsstudier bör rapporteras.
-
-Det är i allmänhet en god idé att gå igenom STROBE-checklistan för ditt arbete. Skriv svar på punkterna i cheklistan så har du en bra grund för din uppsats.
-
-&#x1F517; [STROBE webpage](https://www.strobe-statement.org/index.php?id=strobe-home)
-
-&#x1F517; [STROBE checklists](https://www.strobe-statement.org/index.php?id=available-checklists)
-
-Välj den checklista som passar din studiedesign.
-
-&#x1F517; [STROBE checklista för kohortstudier](https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_cohort.doc)
 
 # Stildetaljer
 
@@ -50,7 +40,7 @@ Aka "Boxplot". Kanske något för din uppsats?
 
 &#x1F517; [How to read a boxplot ](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
 
-### Annat
+### Andra typer av figurer
 
 [Stapeldiagram](https://www2.le.ac.uk/offices/ld/resources/numerical-data/bar-charts) kan vara ett alternativ för att jämföra grupper eller beskriva tex förekomst av olika sjukdomar eller läkemedel i studiegruppen.
 
@@ -66,3 +56,18 @@ Om du har grupper som tillsammans blir exakt 100% kan ett [cirkeldiagram](https:
 <!-- &#x1F517; [CONSORT webpage](http://www.consort-statement.org/) -->
 
 <!-- [Consort checklist](http://www.consort-statement.org/download/Media/Default/Downloads/CONSORT%202010%20Checklist.doc) -->
+
+# STROBE - mall för rapportering
+
+STROBE är riktlinjer för hur observationsstudier bör rapporteras.
+
+Det är i allmänhet en god idé att gå igenom STROBE-checklistan för ditt arbete. Skriv svar på punkterna i cheklistan så har du en bra grund för din uppsats.
+
+&#x1F517; [STROBE webpage](https://www.strobe-statement.org/index.php?id=strobe-home)
+
+&#x1F517; [STROBE checklists](https://www.strobe-statement.org/index.php?id=available-checklists)
+
+Välj den checklista som passar din studiedesign.
+
+&#x1F517; [STROBE checklista för kohortstudier](https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_cohort.doc)
+
